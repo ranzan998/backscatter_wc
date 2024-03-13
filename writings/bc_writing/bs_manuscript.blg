@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bs_manuscript.aux
+The style file: plainnat.bst
+Database file #1: bs_citations.bib
+Repeated entry---line 511 of file bs_citations.bib
+ : @article{nair1999arabian
+ :                         ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 705 of file bs_citations.bib
+ :   
+ :   journal={Limnology and Oceanography},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in banse1968hydrography
+Warning--empty journal in greenlaw1979acoustical
+Warning--empty year in greenlaw1979acoustical
+Warning--empty year in greenlaw1979acoustical
+Warning--empty journal in madhupratap1992zooplankton
+Warning--empty journal in maheswaran2000upwelling
+Warning--empty journal in nair1999arabian
+Warning--empty journal in qasim1977biological
+Warning--empty booktitle in shetye1998coastal
+Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
+You've used 69 entries,
+            2773 wiz_defined-function locations,
+            1026 strings with 21139 characters,
+and the built_in function-call counts, 39722 in all, are:
+= -- 3435
+> -- 2955
+< -- 33
++ -- 994
+- -- 924
+* -- 3626
+:= -- 6198
+add.period$ -- 212
+call.type$ -- 69
+change.case$ -- 510
+chr.to.int$ -- 68
+cite$ -- 148
+duplicate$ -- 1492
+empty$ -- 2786
+format.name$ -- 1021
+if$ -- 8119
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 68
+newline$ -- 354
+num.names$ -- 276
+pop$ -- 947
+preamble$ -- 1
+purify$ -- 442
+quote$ -- 0
+skip$ -- 1235
+stack$ -- 0
+substring$ -- 1668
+swap$ -- 133
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 759
+warning$ -- 10
+while$ -- 326
+width$ -- 0
+write$ -- 901
+(There were 2 error messages)
