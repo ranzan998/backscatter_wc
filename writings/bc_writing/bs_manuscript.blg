@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: bs_manuscript.aux
 The style file: plainnat.bst
@@ -22,45 +22,45 @@ Warning--empty journal in nair1999arabian
 Warning--empty journal in qasim1977biological
 Warning--empty booktitle in shetye1998coastal
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 69 entries,
+You've used 70 entries,
             2773 wiz_defined-function locations,
-            1026 strings with 21139 characters,
-and the built_in function-call counts, 39722 in all, are:
-= -- 3435
-> -- 2955
-< -- 33
-+ -- 994
-- -- 924
-* -- 3626
-:= -- 6198
-add.period$ -- 212
-call.type$ -- 69
-change.case$ -- 510
-chr.to.int$ -- 68
-cite$ -- 148
-duplicate$ -- 1492
-empty$ -- 2786
-format.name$ -- 1021
-if$ -- 8119
+            1031 strings with 21347 characters,
+and the built_in function-call counts, 40243 in all, are:
+= -- 3490
+> -- 2965
+< -- 35
++ -- 998
+- -- 927
+* -- 3654
+:= -- 6266
+add.period$ -- 216
+call.type$ -- 70
+change.case$ -- 514
+chr.to.int$ -- 69
+cite$ -- 150
+duplicate$ -- 1524
+empty$ -- 2839
+format.name$ -- 1025
+if$ -- 8243
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 68
-newline$ -- 354
-num.names$ -- 276
-pop$ -- 947
+missing$ -- 69
+newline$ -- 359
+num.names$ -- 280
+pop$ -- 959
 preamble$ -- 1
-purify$ -- 442
+purify$ -- 445
 quote$ -- 0
-skip$ -- 1235
+skip$ -- 1259
 stack$ -- 0
-substring$ -- 1668
-swap$ -- 133
-text.length$ -- 9
+substring$ -- 1702
+swap$ -- 144
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 759
+type$ -- 770
 warning$ -- 10
-while$ -- 326
+while$ -- 332
 width$ -- 0
-write$ -- 901
+write$ -- 915
 (There were 2 error messages)

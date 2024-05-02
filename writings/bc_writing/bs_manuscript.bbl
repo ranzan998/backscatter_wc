@@ -1,4 +1,4 @@
-\begin{thebibliography}{69}
+\begin{thebibliography}{70}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -113,6 +113,13 @@ Boris Cisewski, Volker~H Strass, Monika Rhein, and S{\"o}ren Kr{\"a}gefsky.
   adcp backscatter time series data in the lazarev sea, antarctica.
 \newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
   57\penalty0 (1):\penalty0 78--94, 2010.
+
+\bibitem[Deines(1999)]{deines1999backscatter}
+Kent~L Deines.
+\newblock Backscatter estimation using broadband acoustic doppler current
+  profilers.
+\newblock In \emph{Proceedings of the IEEE Sixth Working Conference on Current
+  Measurement (Cat. No. 99CH36331)}, pages 249--253. IEEE, 1999.
 
 \bibitem[Edvardsen et~al.(2003)Edvardsen, Slagstad, Tande, and
   Jaccard]{edvardsen2003assessing}
