@@ -7,60 +7,52 @@ Repeated entry---line 511 of file bs_citations.bib
  : @article{nair1999arabian
  :                         ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 705 of file bs_citations.bib
- :   
- :   journal={Limnology and Oceanography},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in banse1968hydrography
-Warning--empty journal in greenlaw1979acoustical
-Warning--empty year in greenlaw1979acoustical
-Warning--empty year in greenlaw1979acoustical
 Warning--empty journal in madhupratap1992zooplankton
 Warning--empty journal in maheswaran2000upwelling
 Warning--empty journal in nair1999arabian
 Warning--empty journal in qasim1977biological
 Warning--empty booktitle in shetye1998coastal
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 70 entries,
+You've used 75 entries,
             2773 wiz_defined-function locations,
-            1031 strings with 21347 characters,
-and the built_in function-call counts, 40243 in all, are:
-= -- 3490
-> -- 2965
-< -- 35
-+ -- 998
-- -- 927
-* -- 3654
-:= -- 6266
-add.period$ -- 216
-call.type$ -- 70
-change.case$ -- 514
-chr.to.int$ -- 69
-cite$ -- 150
-duplicate$ -- 1524
-empty$ -- 2839
-format.name$ -- 1025
-if$ -- 8243
+            1055 strings with 22593 characters,
+and the built_in function-call counts, 43913 in all, are:
+= -- 3796
+> -- 3300
+< -- 37
++ -- 1111
+- -- 1035
+* -- 4007
+:= -- 6853
+add.period$ -- 232
+call.type$ -- 75
+change.case$ -- 563
+chr.to.int$ -- 74
+cite$ -- 157
+duplicate$ -- 1637
+empty$ -- 3058
+format.name$ -- 1138
+if$ -- 8982
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 69
-newline$ -- 359
-num.names$ -- 280
-pop$ -- 959
+missing$ -- 74
+newline$ -- 385
+num.names$ -- 300
+pop$ -- 1045
 preamble$ -- 1
-purify$ -- 445
+purify$ -- 489
 quote$ -- 0
-skip$ -- 1259
+skip$ -- 1365
 stack$ -- 0
-substring$ -- 1702
-swap$ -- 144
-text.length$ -- 10
+substring$ -- 1853
+swap$ -- 156
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 770
-warning$ -- 10
-while$ -- 332
+type$ -- 825
+warning$ -- 7
+while$ -- 360
 width$ -- 0
-write$ -- 915
-(There were 2 error messages)
+write$ -- 984
+(There was 1 error message)
