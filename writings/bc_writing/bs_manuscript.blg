@@ -7,6 +7,8 @@ Repeated entry---line 511 of file bs_citations.bib
  : @article{nair1999arabian
  :                         ,
 I'm skipping whatever remains of this entry
+Warning--entry type for "Friedland.2012" isn't style-file defined
+--line 822 of file bs_citations.bib
 Warning--can't use both volume and number fields in banse1968hydrography
 Warning--empty journal in madhupratap1992zooplankton
 Warning--empty journal in maheswaran2000upwelling
@@ -14,45 +16,45 @@ Warning--empty journal in nair1999arabian
 Warning--empty journal in qasim1977biological
 Warning--empty booktitle in shetye1998coastal
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 75 entries,
+You've used 82 entries,
             2773 wiz_defined-function locations,
-            1055 strings with 22593 characters,
-and the built_in function-call counts, 43913 in all, are:
-= -- 3796
-> -- 3300
+            1094 strings with 24345 characters,
+and the built_in function-call counts, 48087 in all, are:
+= -- 4152
+> -- 3627
 < -- 37
-+ -- 1111
-- -- 1035
-* -- 4007
-:= -- 6853
-add.period$ -- 232
-call.type$ -- 75
-change.case$ -- 563
-chr.to.int$ -- 74
-cite$ -- 157
-duplicate$ -- 1637
-empty$ -- 3058
-format.name$ -- 1138
-if$ -- 8982
++ -- 1220
+- -- 1137
+* -- 4415
+:= -- 7502
+add.period$ -- 252
+call.type$ -- 82
+change.case$ -- 618
+chr.to.int$ -- 81
+cite$ -- 171
+duplicate$ -- 1779
+empty$ -- 3347
+format.name$ -- 1247
+if$ -- 9826
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 74
-newline$ -- 385
-num.names$ -- 300
-pop$ -- 1045
+missing$ -- 80
+newline$ -- 419
+num.names$ -- 328
+pop$ -- 1147
 preamble$ -- 1
-purify$ -- 489
+purify$ -- 537
 quote$ -- 0
-skip$ -- 1365
+skip$ -- 1484
 stack$ -- 0
-substring$ -- 1853
-swap$ -- 156
+substring$ -- 2047
+swap$ -- 163
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 825
+type$ -- 902
 warning$ -- 7
-while$ -- 360
+while$ -- 393
 width$ -- 0
-write$ -- 984
+write$ -- 1072
 (There was 1 error message)
