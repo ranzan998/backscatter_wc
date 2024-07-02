@@ -1,4 +1,4 @@
-\begin{thebibliography}{82}
+\begin{thebibliography}{84}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -162,13 +162,12 @@ Charles~N Flagg and Sharon~L Smith.
 \newblock \emph{Deep Sea Research Part A. Oceanographic Research Papers},
   36\penalty0 (3):\penalty0 455--474, 1989.
 
-\bibitem[Friedland et~al.(2012)Friedland, Stock, Drinkwater, Link, Leaf, Shank,
-  Rose, Pilskaln, and Fogarty]{Friedland.2012}
-Kevin~D. Friedland, Charles~A. Stock, Kenneth~F. Drinkwater, Jason~S. Link,
-  Robert~T. Leaf, Burton Shank, Julie~M. Rose, Cynthia~H. Pilskaln, and
-  Michael~J. Fogarty.
-\newblock Pathways between primary production and fisheries yields of large
-  marine ecosystems, 2012.
+\bibitem[García et~al.(2014)García, Locarnini, Boyer, Antonov, Mishonov,
+  Baranova, Zweng, Reagan, and Johnson]{garcia2013oxygen}
+H.~E. García, R.~A. Locarnini, T.~P. Boyer, J.~I. Antonov, A.~V. Mishonov,
+  O.~K. Baranova, M.~M. Zweng, J.~R. Reagan, and D.~R. Johnson.
+\newblock Dissolved oxygen, apparent oxygen utilization, and oxygen saturation.
+\newblock \emph{NOAA Atlas NESDIS 75}, 3, 2014.
 
 \bibitem[Greene et~al.(1998)Greene, Wiebe, Pelkie, Benfield, and
   Popp]{greene1998three}
@@ -530,6 +529,14 @@ SR~Shetye and AD~Gouveia.
   sw).
 \newblock John Wiley and Sons, New York, USA, 1998.
 
+\bibitem[Shetye et~al.(1990)Shetye, Gouveia, Shenoi, Sundar, Michael, Almeida,
+  and Santanam]{shetye1990hydrography}
+SR~Shetye, AD~Gouveia, SSC Shenoi, D~Sundar, GS~Michael, AM~Almeida, and
+  K~Santanam.
+\newblock Hydrography and circulation off the west coast of india during the
+  southwest monsoon 1987.
+\newblock 1990.
+
 \bibitem[Shetye et~al.(1991)Shetye, Gouveia, Shenoi, Michael, Sundar, Almeida,
   and Santanam]{shetye1991coastal}
 SR~Shetye, AD~Gouveia, SSC Shenoi, GS~Michael, D~Sundar, AM~Almeida, and
@@ -569,6 +576,12 @@ SL~Smith and M~Madhupratap.
   upwelling, and oxygen concentrations.
 \newblock \emph{Progress in Oceanography}, 65\penalty0 (2-4):\penalty0
   214--239, 2005.
+
+\bibitem[Sreenivas et~al.(2008)Sreenivas, Patnaik, and
+  Prasad]{sreenivas2008monthly}
+Patnaik Sreenivas, KVKRK Patnaik, and KVSR Prasad.
+\newblock Monthly variability of mixed layer over arabian sea using argo data.
+\newblock \emph{Marine Geodesy}, 31\penalty0 (1):\penalty0 17--38, 2008.
 
 \bibitem[Subrahmanyan(1959)]{subrahmanyan1959studiespart2}
 R~Subrahmanyan.

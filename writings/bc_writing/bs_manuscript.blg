@@ -1,60 +1,65 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: bs_manuscript.aux
 The style file: plainnat.bst
 Database file #1: bs_citations.bib
-Repeated entry---line 511 of file bs_citations.bib
+Repeated entry---line 527 of file bs_citations.bib
  : @article{nair1999arabian
  :                         ,
 I'm skipping whatever remains of this entry
-Warning--entry type for "Friedland.2012" isn't style-file defined
---line 822 of file bs_citations.bib
+I was expecting a `,' or a `}'---line 893 of file bs_citations.bib
+ :  
+ :  publisher={NOAA, Washington DC, USA,A. Mishonov, Technical Ed}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Friedland.2012"
 Warning--can't use both volume and number fields in banse1968hydrography
 Warning--empty journal in madhupratap1992zooplankton
 Warning--empty journal in maheswaran2000upwelling
 Warning--empty journal in nair1999arabian
 Warning--empty journal in qasim1977biological
 Warning--empty booktitle in shetye1998coastal
+Warning--empty journal in shetye1990hydrography
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 82 entries,
+You've used 84 entries,
             2773 wiz_defined-function locations,
-            1094 strings with 24345 characters,
-and the built_in function-call counts, 48087 in all, are:
-= -- 4152
-> -- 3627
+            1103 strings with 24673 characters,
+and the built_in function-call counts, 49206 in all, are:
+= -- 4245
+> -- 3723
 < -- 37
-+ -- 1220
-- -- 1137
-* -- 4415
-:= -- 7502
-add.period$ -- 252
-call.type$ -- 82
-change.case$ -- 618
-chr.to.int$ -- 81
-cite$ -- 171
-duplicate$ -- 1779
-empty$ -- 3347
-format.name$ -- 1247
-if$ -- 9826
++ -- 1252
+- -- 1167
+* -- 4522
+:= -- 7687
+add.period$ -- 259
+call.type$ -- 84
+change.case$ -- 634
+chr.to.int$ -- 83
+cite$ -- 176
+duplicate$ -- 1824
+empty$ -- 3415
+format.name$ -- 1279
+if$ -- 10047
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 80
-newline$ -- 419
-num.names$ -- 328
-pop$ -- 1147
+missing$ -- 83
+newline$ -- 430
+num.names$ -- 336
+pop$ -- 1173
 preamble$ -- 1
-purify$ -- 537
+purify$ -- 551
 quote$ -- 0
-skip$ -- 1484
+skip$ -- 1518
 stack$ -- 0
-substring$ -- 2047
-swap$ -- 163
+substring$ -- 2070
+swap$ -- 164
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 902
-warning$ -- 7
-while$ -- 393
+type$ -- 924
+warning$ -- 8
+while$ -- 401
 width$ -- 0
-write$ -- 1072
-(There was 1 error message)
+write$ -- 1099
+(There were 2 error messages)
