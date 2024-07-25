@@ -1,0 +1,17 @@
+use 4goa.nc
+
+let bs1 = if l[g=bs] le 8575 and z[g=bs] eq 24 then bs[z=28] else bs
+! bs2 missed
+
+let bs2 = if l[g=bs] ge 46099 and l[g=bs] le 54408 and z[g=bs] eq 24 then bs[z=28] else bs1
+
+let bs3 = if l[g=bs] ge 46099 and l[g=bs] le 54408 and z[g=bs] eq 28 then bs2[z=32] else bs2
+
+
+save/file=4goa_bs_24_correct.nc/clobber bs3
+
+save/file=4goa_bs_24_added.nc/clobber u1[d=1],v1[d=1],bs3[d=1],biomass1[d=1]
+
+!ca da/all
+!ca var/all
+sp ncrename -v BS3,BS1 4goa_bs_24_added.nc

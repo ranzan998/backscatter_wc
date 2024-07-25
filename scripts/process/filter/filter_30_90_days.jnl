@@ -1,0 +1,23 @@
+use 2mumbai.nc
+let bmd = biomass1[l=1:54408:24@ave]
+
+let bm2_30_5 = lanczos(bmd,1/30,1/2,21)
+let bm30_90_61 = lanczos(bmd,1/90,1/30,61)
+let bm90_400_90 = lanczos(bmd,1/400,1/90,201)
+
+set win/aspect=0.65 1
+set view upper
+plot/z=50 bmd,bm2_30_5,bm30_90_61,bm90_400_90
+set view lower
+plot/z=50 bmd,bm2_30_5+bm30_90_61+bm90_400_90
+
+frame/file=lancos_test.png/ypixel=2245
+
+set win/aspect=0.65 2
+set view upper
+let bm_diff = bmd-(bm2_30_5+bm30_90_61+bm90_400_90)
+let bmanom = bm_diff- bm_diff[l=@ave]
+plot/z=50/l=1000:1200 bmanom
+set view lower
+plot/z=50/l=1000:1200 bmd,bm2_30_5+bm30_90_61+bm90_400_90
+frame/file=lancos_test1.png/ypixel=2245

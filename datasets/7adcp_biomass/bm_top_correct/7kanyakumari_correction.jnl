@@ -1,0 +1,20 @@
+use 7kanyakumari.nc
+let bs1 = if l[g=bs] ge 28051 and l[g=bs] le 38995 and z[g=bs] eq 36 then bs[z=40] else bs
+
+let bs2 = if l[g=bs] ge 28051 and l[g=bs] le 38995 and z[g=bs1] eq 32 then bs1[z=36] else bs1
+
+let bs3 = if l[g=bs] ge 28051 and l[g=bs] le 38995 and z[g=bs1] eq 28 then bs2[z=32] else bs2
+
+let bs4 = if l[g=bs] ge 28051 and l[g=bs] le 38995 and z[g=bs1] eq 24 then bs3[z=28] else bs3
+
+let bs5 = if l[g=bs] ge 38995 and z[g=bs] eq 24 then bs4[z=28] else bs4
+
+let bs6 = if l[g=bs] le 18000 and z[g=bs] eq 24 then bs5[z=28] else bs5
+
+
+save/file=7kanyakumari_bs_24_correct.nc/clobber bs6
+save/file=7kanyakumari_bs_24_added.nc/clobber u1[d=1],v1[d=1],bs6[d=1],biomass1[d=1]
+
+!ca da/all
+!ca var/all
+sp ncrename -v BS6,BS1 7kanyakumari_bs_24_added.nc

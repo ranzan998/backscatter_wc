@@ -1,0 +1,69 @@
+#####################################
+FERRET
+#####################################
+
+! create grid
+
+define axis/x=79.3104E:79.3504E:1/unit=degree xaxis !change lat lon
+define axis/y=9.1931N:9.2245N:1/unit=degree yaxis
+define axis/z=0:1:1/unit=meters zaxis
+
+define axis/t="10-feb-2010 14:00":"15-nov-2010 05:00":10/units=minutes taxis        !change dates
+define grid/x=xaxis/y=yaxis/t=taxis grd1
+
+
+
+
+####
+let gn = "`uvel,return=GRID`" 
+
+########################################
+!running jnl inside a bash script
+
+for file in *.nc
+do 
+ferret << eof
+use $file
+let ures1 = ures
+let vres1 = vres
+save/file=residuals_$file/clobber ures1,vres1
+sp mv residuals_$file /home/scilab/Desktop/shankar_sixth/3residuals_only
+eof
+done
+
+#############################################
+let P = uvel
+let Q = vvel
+
+go variance
+
+############################################
+!running ferret.jnl in the python terminal
+os.system('conda run -n FERRET ferret -script wavelet_cw_ccw.jnl')
+
+
+
+#############
+!monthly climatology
+
+LET start_year = 2012
+LET nyears = 8
+LET indices = L[L=1:`nyears*12`]
+LET month = MOD(indices-1,12)+1
+LET year = start_year + INT((indices-1)/12)
+DEFINE AXIS/UNITS=days/T0=1-jan-1900/EDGES truemonth = DAYS1900(year,month,1)
+
+
+!fast fourier transform
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+let ffbmd = ffta(bmd)
+
+LET FFT_nf = `ffbmd,return=lend`
+LET nyquist_freq = 0.5
+LET freq_increment = nyquist_freq /FFT_nf
+DEFINE AXIS/T="`freq_increment`":"`nyquist_freq`":"`freq_increment`" frequency_axis
+DEFINE GRID/T=frequency_axis freq_grid
+LET frequency_values = T[g=freq_grid]
+LET period_values = 1.0 / frequency_values
+SHOW SYMBOL period_values
+PLOT/VS/LINE period_values, ffbmd

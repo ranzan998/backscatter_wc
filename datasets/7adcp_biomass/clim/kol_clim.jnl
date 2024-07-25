@@ -1,0 +1,21 @@
+use "../6kollam_bm_24_added_new.nc"
+
+!!!##Standard Time axis Definition#####
+
+LET start_year = 2017
+LET nyears = 7
+LET indices = L[L=1:`nyears*12`]
+LET month = MOD(indices-1,12)+1
+LET year = start_year + INT((indices-1)/12)
+DEFINE AXIS/UNITS=days/T0=1-jan-1900/EDGES truemonth = DAYS1900(year,month,1)
+
+!!!################################
+
+let bm_mon=BIOMASS1[gt=truemonth@ave]
+
+USE climatological_axes
+CANCEL DATA climatological_axes
+
+let bm_clim=bm_mon[gt=month_reg@mod]
+
+list/file=kol_2017_2023_clim.nc/clobber/format=cdf bm_clim

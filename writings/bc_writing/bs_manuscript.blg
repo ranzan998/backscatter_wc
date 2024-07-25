@@ -7,11 +7,6 @@ Repeated entry---line 527 of file bs_citations.bib
  : @article{nair1999arabian
  :                         ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 893 of file bs_citations.bib
- :  
- :  publisher={NOAA, Washington DC, USA,A. Mishonov, Technical Ed}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Friedland.2012"
 Warning--can't use both volume and number fields in banse1968hydrography
 Warning--empty journal in madhupratap1992zooplankton
@@ -21,45 +16,45 @@ Warning--empty journal in qasim1977biological
 Warning--empty booktitle in shetye1998coastal
 Warning--empty journal in shetye1990hydrography
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 84 entries,
+You've used 87 entries,
             2773 wiz_defined-function locations,
-            1103 strings with 24673 characters,
-and the built_in function-call counts, 49206 in all, are:
-= -- 4245
-> -- 3723
-< -- 37
-+ -- 1252
-- -- 1167
-* -- 4522
-:= -- 7687
-add.period$ -- 259
-call.type$ -- 84
-change.case$ -- 634
-chr.to.int$ -- 83
-cite$ -- 176
-duplicate$ -- 1824
-empty$ -- 3415
-format.name$ -- 1279
-if$ -- 10047
+            1121 strings with 25344 characters,
+and the built_in function-call counts, 50674 in all, are:
+= -- 4381
+> -- 3804
+< -- 38
++ -- 1279
+- -- 1191
+* -- 4655
+:= -- 7909
+add.period$ -- 268
+call.type$ -- 87
+change.case$ -- 651
+chr.to.int$ -- 86
+cite$ -- 182
+duplicate$ -- 1886
+empty$ -- 3537
+format.name$ -- 1308
+if$ -- 10351
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 83
-newline$ -- 430
-num.names$ -- 336
-pop$ -- 1173
+missing$ -- 86
+newline$ -- 445
+num.names$ -- 348
+pop$ -- 1201
 preamble$ -- 1
-purify$ -- 551
+purify$ -- 565
 quote$ -- 0
-skip$ -- 1518
+skip$ -- 1564
 stack$ -- 0
-substring$ -- 2070
-swap$ -- 164
+substring$ -- 2151
+swap$ -- 167
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 924
+type$ -- 957
 warning$ -- 8
-while$ -- 401
+while$ -- 416
 width$ -- 0
-write$ -- 1099
-(There were 2 error messages)
+write$ -- 1138
+(There was 1 error message)

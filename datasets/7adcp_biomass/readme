@@ -1,0 +1,6 @@
+These files are from /media/scilab/disk_ranjan/works/westcoast_adcp1/backscatternew/6bs/bs/fer_regrid/merged/
+
+The files are regridded to contain the same time axis and saved in regrid
+
+#goa and kollam files are corrected for the top layers, 24m.
+>>>> check bm_top_corrected
