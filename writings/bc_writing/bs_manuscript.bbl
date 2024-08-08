@@ -1,4 +1,4 @@
-\begin{thebibliography}{87}
+\begin{thebibliography}{88}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -572,6 +572,12 @@ SR~Shetye, AD~Gouveia, and SSC Shenoi.
 \newblock Does winter cooling lead to the subsurface salinity minimum off
   saurashtra, india?
 \newblock \emph{Oceanography of the Indian Ocean}, pages 617--625, 1992.
+
+\bibitem[Shi and Wang(2022)]{shi2022phytoplankton}
+Wei Shi and Menghua Wang.
+\newblock Phytoplankton biomass dynamics in the arabian sea from viirs
+  observations.
+\newblock \emph{Journal of Marine Systems}, 227:\penalty0 103670, 2022.
 
 \bibitem[Silsbe et~al.(2016)Silsbe, Behrenfeld, Halsey, Milligan, and
   Westberry]{silsbe2016cafe}

@@ -16,45 +16,45 @@ Warning--empty journal in qasim1977biological
 Warning--empty booktitle in shetye1998coastal
 Warning--empty journal in shetye1990hydrography
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 87 entries,
+You've used 88 entries,
             2773 wiz_defined-function locations,
-            1121 strings with 25344 characters,
-and the built_in function-call counts, 50674 in all, are:
-= -- 4381
-> -- 3804
-< -- 38
-+ -- 1279
-- -- 1191
-* -- 4655
-:= -- 7909
-add.period$ -- 268
-call.type$ -- 87
-change.case$ -- 651
-chr.to.int$ -- 86
-cite$ -- 182
-duplicate$ -- 1886
-empty$ -- 3537
-format.name$ -- 1308
-if$ -- 10351
+            1126 strings with 25472 characters,
+and the built_in function-call counts, 51103 in all, are:
+= -- 4420
+> -- 3825
+< -- 39
++ -- 1286
+- -- 1197
+* -- 4687
+:= -- 7975
+add.period$ -- 271
+call.type$ -- 88
+change.case$ -- 656
+chr.to.int$ -- 87
+cite$ -- 184
+duplicate$ -- 1906
+empty$ -- 3575
+format.name$ -- 1317
+if$ -- 10442
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 86
-newline$ -- 445
-num.names$ -- 348
-pop$ -- 1201
+missing$ -- 87
+newline$ -- 450
+num.names$ -- 352
+pop$ -- 1209
 preamble$ -- 1
-purify$ -- 565
+purify$ -- 569
 quote$ -- 0
-skip$ -- 1564
+skip$ -- 1580
 stack$ -- 0
-substring$ -- 2151
-swap$ -- 167
+substring$ -- 2171
+swap$ -- 168
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 957
+type$ -- 968
 warning$ -- 8
-while$ -- 416
+while$ -- 420
 width$ -- 0
-write$ -- 1138
+write$ -- 1151
 (There was 1 error message)
