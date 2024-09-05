@@ -3,11 +3,11 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: bs_manuscript.aux
 The style file: plainnat.bst
 Database file #1: bs_citations.bib
-Repeated entry---line 527 of file bs_citations.bib
+Repeated entry---line 538 of file bs_citations.bib
  : @article{nair1999arabian
  :                         ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Friedland.2012"
+Warning--I didn't find a database entry for ""
 Warning--can't use both volume and number fields in banse1968hydrography
 Warning--empty journal in madhupratap1992zooplankton
 Warning--empty journal in maheswaran2000upwelling
@@ -16,45 +16,45 @@ Warning--empty journal in qasim1977biological
 Warning--empty booktitle in shetye1998coastal
 Warning--empty journal in shetye1990hydrography
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 88 entries,
+You've used 101 entries,
             2773 wiz_defined-function locations,
-            1126 strings with 25472 characters,
-and the built_in function-call counts, 51103 in all, are:
-= -- 4420
-> -- 3825
-< -- 39
-+ -- 1286
-- -- 1197
-* -- 4687
-:= -- 7975
-add.period$ -- 271
-call.type$ -- 88
-change.case$ -- 656
-chr.to.int$ -- 87
-cite$ -- 184
-duplicate$ -- 1906
-empty$ -- 3575
-format.name$ -- 1317
-if$ -- 10442
+            1198 strings with 28757 characters,
+and the built_in function-call counts, 59126 in all, are:
+= -- 5106
+> -- 4485
+< -- 43
++ -- 1506
+- -- 1404
+* -- 5462
+:= -- 9255
+add.period$ -- 319
+call.type$ -- 101
+change.case$ -- 764
+chr.to.int$ -- 100
+cite$ -- 210
+duplicate$ -- 2173
+empty$ -- 4089
+format.name$ -- 1545
+if$ -- 12060
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 87
-newline$ -- 450
-num.names$ -- 352
-pop$ -- 1209
+missing$ -- 100
+newline$ -- 524
+num.names$ -- 404
+pop$ -- 1394
 preamble$ -- 1
-purify$ -- 569
+purify$ -- 664
 quote$ -- 0
-skip$ -- 1580
+skip$ -- 1809
 stack$ -- 0
-substring$ -- 2171
-swap$ -- 168
+substring$ -- 2477
+swap$ -- 185
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 968
+type$ -- 1111
 warning$ -- 8
-while$ -- 420
+while$ -- 477
 width$ -- 0
-write$ -- 1151
+write$ -- 1336
 (There was 1 error message)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{88}
+\begin{thebibliography}{101}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -64,6 +64,15 @@ Karl Banse.
   biomass and production.
 \newblock \emph{ICES Journal of marine Science}, 52\penalty0 (3-4):\penalty0
   265--277, 1995.
+
+\bibitem[Barber et~al.(2001)Barber, Marra, Bidigare, Codispoti, Halpern,
+  Johnson, Latasa, Goericke, and Smith]{barber2001qn}
+Richard~T Barber, John Marra, Robert~C Bidigare, Louis~A Codispoti, David
+  Halpern, Zackary Johnson, Mikel Latasa, Ralf Goericke, and Sharon~L Smith.
+\newblock Primary productivity and its regulation in the arabian sea during
+  1995.
+\newblock \emph{Deep Sea Res. Part 2 Top. Stud. Oceanogr.}, 48\penalty0
+  (6-7):\penalty0 1127--1172, jan 2001.
 
 \bibitem[Barraclough et~al.(1969)Barraclough, LeBrasseur, and
   Kennedy]{barraclough1969shallow}
@@ -162,6 +171,15 @@ Charles~N Flagg and Sharon~L Smith.
 \newblock \emph{Deep Sea Research Part A. Oceanographic Research Papers},
   36\penalty0 (3):\penalty0 455--474, 1989.
 
+\bibitem[Friedland et~al.(2012)Friedland, Stock, Drinkwater, Link, Leaf, Shank,
+  Rose, Pilskaln, and Fogarty]{friedland2012pathways}
+Kevin~D Friedland, Charles Stock, Kenneth~F Drinkwater, Jason~S Link, Robert~T
+  Leaf, Burton~V Shank, Julie~M Rose, Cynthia~H Pilskaln, and Michael~J
+  Fogarty.
+\newblock Pathways between primary production and fisheries yields of large
+  marine ecosystems.
+\newblock \emph{PloS one}, 7\penalty0 (1):\penalty0 e28945, 2012.
+
 \bibitem[García et~al.(2014)García, Locarnini, Boyer, Antonov, Mishonov,
   Baranova, Zweng, Reagan, and Johnson]{garcia2013oxygen}
 H.~E. García, R.~A. Locarnini, T.~P. Boyer, J.~I. Antonov, A.~V. Mishonov,
@@ -246,6 +264,14 @@ Ryuichiro Inoue, Minoru Kitamura, and Tetsuichi Fujiki.
 \newblock \emph{Journal of Geophysical Research: Oceans}, 121\penalty0
   (2):\penalty0 1031--1050, 2016.
 
+\bibitem[Jayakumar et~al.(2004)Jayakumar, Francis, Naqvi, and
+  Ward]{jayakumar.2004}
+D.~A. Jayakumar, Christopher~A. Francis, S.W.A. Naqvi, and Bess~B. Ward.
+\newblock Diversity of nitrite reductase genes (nirs) in the denitrifying water
+  column of the coastal arabian sea.
+\newblock \emph{Aquatic Microbial Ecology}, 2004.
+\newblock \doi{10.3354/ame034069}.
+
 \bibitem[Jiang et~al.(2007)Jiang, Dickey, Steinberg, and
   Madin]{jiang2007temporal}
 Songnian Jiang, Tommy~D Dickey, Deborah~K Steinberg, and Laurence~P Madin.
@@ -289,6 +315,21 @@ Punam~A Khandagale, Vaibhav~D Mhatre, and Sujitha Thomas.
 \newblock \emph{Journal of the Marine Biological Association of India},
   64\penalty0 (1):\penalty0 25--32, 2022.
 
+\bibitem[Kidwai and Amjad(2000)]{kidwai2000dd}
+S~Kidwai and S~Amjad.
+\newblock Zooplankton: pre-southwest and northeast monsoons of 1993 to 1994,
+  from the north arabian sea.
+\newblock \emph{Mar. Biol.}, 136\penalty0 (3):\penalty0 561--571, apr 2000.
+
+\bibitem[Kumar et~al.(2000)Kumar, Madhupratap, Kumar, Gauns, Muraleedharan,
+  Sarma, and Souza]{Kumar.2000}
+S.~Prasanna Kumar, M.~Madhupratap, M.~Dileep Kumar, Mangesh Gauns, P.M.
+  Muraleedharan, V.~V. S.~S. Sarma, and Sílvia Naves~de Souza.
+\newblock Physical control of primary productivity on a seasonal scale in
+  central and eastern arabian sea.
+\newblock \emph{Journal of Earth System Science}, 2000.
+\newblock \doi{10.1007/bf02708331}.
+
 \bibitem[Le~Qu et~al.(2016)Le~Qu, Andrew, Canadell, Sitch, Korsbakken, Peters,
   Manning, Boden, Tans, Houghton, et~al.]{le2016global}
 Corinne Le~Qu, Robbie~M Andrew, Josep~G Canadell, Stephen Sitch, Jan~Ivar
@@ -322,6 +363,13 @@ Yanliang Liu, Jingsong Guo, Yuhuan Xue, Chalermrat Sangmanee, Huiwu Wang, Chang
   micronekton in the andaman sea observed by a moored adcp.
 \newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
   179:\penalty0 103663, 2022.
+
+\bibitem[Longhurst and Wooster(1990)]{longhurst1990gd}
+Alan~R Longhurst and Warren~S Wooster.
+\newblock Abundance of oil sardine (sardinella longiceps) and upwelling on the
+  southwest coast of india.
+\newblock \emph{Can. J. Fish. Aquat. Sci.}, 47\penalty0 (12):\penalty0
+  2407--2419, dec 1990.
 
 \bibitem[Madhupratap et~al.(1992)Madhupratap, Haridas, Ramaiah, and
   Achuthankutty]{madhupratap1992zooplankton}
@@ -369,6 +417,17 @@ Douglas Maraun and J{\"u}rgen Kurths.
 \newblock \emph{Nonlinear Processes in Geophysics}, 11\penalty0 (4):\penalty0
   505--514, 2004.
 
+\bibitem[Marra and Barber(2005)]{marra2005jgofs}
+John Marra and Richard~T. Barber.
+\newblock Primary productivity in the arabian sea: A synthesis of jgofs data.
+\newblock \emph{Progress in Oceanography}, 65\penalty0 (2):\penalty0 159--175,
+  2005.
+\newblock ISSN 0079-6611.
+\newblock \doi{https://doi.org/10.1016/j.pocean.2005.03.004}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S007966110500042X}.
+\newblock The Arabian Sea of the 1990s: New Biogeochemical Understanding.
+
 \bibitem[McCreary et~al.(2009)McCreary, Murtugudde, Vialard, Vinayachandran,
   Wiggert, Hood, Shankar, and Shetye]{mccreary2009biophysical}
 JP~McCreary, Raghu Murtugudde, Jerome Vialard, PN~Vinayachandran, Jerry~D
@@ -389,6 +448,15 @@ Julian~P McCreary~Jr, Pijush~K Kundu, and Robert~L Molinari.
 Donald~C McNaught.
 \newblock Acoustical determination of zooplankton distribution.
 \newblock In \emph{Proc. 11th Conf. Great lakes Res.}, pages 76--84, 1968.
+
+\bibitem[Morrison et~al.(1998)Morrison, Codispoti, Gaurin, Jones, Manghnani,
+  and Zheng]{morrison1998seasonal}
+John~M Morrison, LA~Codispoti, S~Gaurin, Burton Jones, V~Manghnani, and
+  Z~Zheng.
+\newblock Seasonal variation of hydrographic and nutrient fields during the us
+  jgofs arabian sea process study.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  45\penalty0 (10-11):\penalty0 2053--2101, 1998.
 
 \bibitem[Mukherjee et~al.(2014)Mukherjee, Shankar, Fernando, Amol, Aparna,
   Fernandes, Michael, Khalap, Satelkar, Agarvadekar,
@@ -427,6 +495,13 @@ KKC Nair, M~Madhupratap, TC~Gopalakrishnan, P~Haridas, and Mangesh Gauns.
 PV~Nair.
 \newblock Primary productivity in the indian seas.
 \newblock \emph{CMFRI Bulletin}, 22:\penalty0 1--63, 1970.
+
+\bibitem[Nethery and Shankar(2007)]{nethery2007zm}
+D~Nethery and D~Shankar.
+\newblock Vertical propagation of baroclinic kelvin waves along the west coast
+  of india.
+\newblock \emph{J. Earth Syst. Sci.}, 116\penalty0 (4):\penalty0 331--339, aug
+  2007.
 
 \bibitem[Nie et~al.(2023)Nie, Li, Wu, Zhang, Tian, Liu, Sun, Ye, Ma, and
   Gao]{nie2023influence}
@@ -525,6 +600,14 @@ D~Sameoto and S~Paulowich.
 \newblock The use of 120 khz sonar in zooplankton studies.
 \newblock In \emph{OCEANS'77 Conference Record}, pages 523--528. IEEE, 1977.
 
+\bibitem[Sarma et~al.(2020)Sarma, Bhaskar, Kumar, and
+  Chakraborty]{sarma2020potential}
+VVSS Sarma, TVS~Udaya Bhaskar, J~Pavan Kumar, and Kunal Chakraborty.
+\newblock Potential mechanisms responsible for occurrence of core oxygen
+  minimum zone in the north-eastern arabian sea.
+\newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
+  165:\penalty0 103393, 2020.
+
 \bibitem[Shankar and Shetye(1997)]{shankar1997dynamics}
 D~Shankar and SR~Shetye.
 \newblock On the dynamics of the lakshadweep high and low in the southeastern
@@ -579,6 +662,13 @@ Wei Shi and Menghua Wang.
   observations.
 \newblock \emph{Journal of Marine Systems}, 227:\penalty0 103670, 2022.
 
+\bibitem[Shi et~al.(1999)Shi, Morrison, B{\"o}hm, and
+  Manghnani]{shi1999remotely}
+Wei Shi, John~M Morrison, Emanuele B{\"o}hm, and Vijayakumar Manghnani.
+\newblock Remotely sensed features in the us jgofs arabian sea process study.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  46\penalty0 (8-9):\penalty0 1551--1575, 1999.
+
 \bibitem[Silsbe et~al.(2016)Silsbe, Behrenfeld, Halsey, Milligan, and
   Westberry]{silsbe2016cafe}
 Greg~M Silsbe, Michael~J Behrenfeld, Kimberly~H Halsey, Allen~J Milligan, and
@@ -597,6 +687,15 @@ Houssem Smeti, Marc Pagano, Christophe Menkes, Anne Lebourges-Dhaussy, Brian~PV
   (s outhwestern p acific) from acoustics and net measurements.
 \newblock \emph{Journal of Geophysical Research: Oceans}, 120\penalty0
   (4):\penalty0 2676--2700, 2015.
+
+\bibitem[Smith et~al.(1998)Smith, Roman, Prusova, Wishner, Gowing, Codispoti,
+  Barber, Marra, and Flagg]{smith1998seasonal}
+Sharon Smith, Michael Roman, Irina Prusova, Karen Wishner, Marcia Gowing,
+  LA~Codispoti, Richard Barber, John Marra, and Charles Flagg.
+\newblock Seasonal response of zooplankton to monsoonal reversals in the
+  arabian sea.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  45\penalty0 (10-11):\penalty0 2369--2403, 1998.
 
 \bibitem[Smith and Madhupratap(2005)]{smith2005mesozooplankton}
 SL~Smith and M~Madhupratap.
@@ -626,6 +725,18 @@ R~Subrahmanyan and AH~Sarma.
   seasonal variation of the phytoplankters and environmental factors.
 \newblock \emph{Indian Journal of Fisheries}, 7\penalty0 (2):\penalty0
   307--336, 1960.
+
+\bibitem[Sudheesh et~al.(2022)Sudheesh, Gupta, Reddy, Bepari, Chari, Sherin,
+  Shaju, Ramu, and Vijayan]{sudheesh2022omz}
+V.~Sudheesh, G.V.M. Gupta, Yudhishtir Reddy, Kausar~F. Bepari, N.V.H.K. Chari,
+  C.K. Sherin, S.S. Shaju, Ch.V. Ramu, and Anil~Kumar Vijayan.
+\newblock Oxygen minimum zone along the eastern arabian sea: Intra-annual
+  variation and dynamics based on ship-borne studies.
+\newblock \emph{Progress in Oceanography}, 201:\penalty0 102742, 2022.
+\newblock ISSN 0079-6611.
+\newblock \doi{https://doi.org/10.1016/j.pocean.2022.102742}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0079661122000040}.
 
 \bibitem[Ursella et~al.(2018)Ursella, Cardin, Batisti{\'c}, Gari{\'c}, and
   Ga{\v{c}}i{\'c}]{ursella2018evidence}
