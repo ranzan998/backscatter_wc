@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bs_manuscript.aux
+The style file: plainnat.bst
+Database file #1: bs_citations.bib
+Repeated entry---line 538 of file bs_citations.bib
+ : @article{nair1999arabian
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
+Warning--can't use both volume and number fields in banse1968hydrography
+Warning--empty journal in madhupratap1992zooplankton
+Warning--empty journal in maheswaran2000upwelling
+Warning--empty journal in nair1999arabian
+Warning--empty journal in qasim1977biological
+Warning--empty booktitle in shetye1998coastal
+Warning--empty journal in shetye1990hydrography
+Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
+You've used 102 entries,
+            2773 wiz_defined-function locations,
+            1208 strings with 29227 characters,
+and the built_in function-call counts, 59944 in all, are:
+= -- 5179
+> -- 4560
+< -- 43
++ -- 1531
+- -- 1428
+* -- 5548
+:= -- 9393
+add.period$ -- 328
+call.type$ -- 102
+change.case$ -- 775
+chr.to.int$ -- 101
+cite$ -- 212
+duplicate$ -- 2194
+empty$ -- 4130
+format.name$ -- 1570
+if$ -- 12227
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 101
+newline$ -- 535
+num.names$ -- 408
+pop$ -- 1408
+preamble$ -- 1
+purify$ -- 674
+quote$ -- 0
+skip$ -- 1829
+stack$ -- 0
+substring$ -- 2496
+swap$ -- 186
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1122
+warning$ -- 8
+while$ -- 480
+width$ -- 0
+write$ -- 1361
+(There was 1 error message)
