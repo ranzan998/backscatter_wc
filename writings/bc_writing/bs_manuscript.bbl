@@ -1,4 +1,4 @@
-\begin{thebibliography}{101}
+\begin{thebibliography}{102}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -35,6 +35,19 @@ SG~Aparna, DV~Desai, D~Shankar, AC~Anil, Shrikant Dora, and R~Khedekar.
 \newblock Seasonal cycle of zooplankton standing stock inferred from adcp
   backscatter measurements in the eastern arabian sea.
 \newblock \emph{Progress in Oceanography}, 203:\penalty0 102766, 2022.
+
+\bibitem[{Asha Devi} et~al.(2010){Asha Devi}, Jyothibabu, Sabu, Jacob,
+  Habeebrehman, Prabhakaran, Jayalakshmi, and Achuthankutty]{ashadevi20101070}
+C.R. {Asha Devi}, R.~Jyothibabu, P.~Sabu, Josia Jacob, H.~Habeebrehman, M.P.
+  Prabhakaran, K.J. Jayalakshmi, and C.T. Achuthankutty.
+\newblock Seasonal variations and trophic ecology of microzooplankton in the
+  southeastern arabian sea.
+\newblock \emph{Continental Shelf Research}, 30\penalty0 (9):\penalty0
+  1070--1084, 2010.
+\newblock ISSN 0278-4343.
+\newblock \doi{https://doi.org/10.1016/j.csr.2010.02.007}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0278434310000439}.
 
 \bibitem[Ashjian et~al.(2002)Ashjian, Smith, Flagg, and
   Idrisi]{ashjian2002distribution}
@@ -411,12 +424,6 @@ PA~Maheswaran, G~Rajesh, C~Revichandran, and KKC Nair.
   during southwest monsoon, 1999.
 \newblock 2000.
 
-\bibitem[Maraun and Kurths(2004)]{maraun2004cross}
-Douglas Maraun and J{\"u}rgen Kurths.
-\newblock Cross wavelet analysis: significance testing and pitfalls.
-\newblock \emph{Nonlinear Processes in Geophysics}, 11\penalty0 (4):\penalty0
-  505--514, 2004.
-
 \bibitem[Marra and Barber(2005)]{marra2005jgofs}
 John Marra and Richard~T. Barber.
 \newblock Primary productivity in the arabian sea: A synthesis of jgofs data.
@@ -607,6 +614,16 @@ VVSS Sarma, TVS~Udaya Bhaskar, J~Pavan Kumar, and Kunal Chakraborty.
   minimum zone in the north-eastern arabian sea.
 \newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
   165:\penalty0 103393, 2020.
+
+\bibitem[Schott and McCreary(2001)]{schott20011}
+Friedrich~A. Schott and Julian~P. McCreary.
+\newblock The monsoon circulation of the indian ocean.
+\newblock \emph{Progress in Oceanography}, 51\penalty0 (1):\penalty0 1--123,
+  2001.
+\newblock ISSN 0079-6611.
+\newblock \doi{https://doi.org/10.1016/S0079-6611(01)00083-0}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0079661101000830}.
 
 \bibitem[Shankar and Shetye(1997)]{shankar1997dynamics}
 D~Shankar and SR~Shetye.
