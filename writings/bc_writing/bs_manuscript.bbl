@@ -1,4 +1,4 @@
-\begin{thebibliography}{102}
+\begin{thebibliography}{96}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,6 +11,16 @@ Anna-Karin Alm{\'e}n and Tobias Tamelander.
   phytoplankton and zooplankton.
 \newblock \emph{Marine Biology Research}, 16\penalty0 (8-9):\penalty0 674--682,
   2020.
+
+\bibitem[Amol et~al.(2012)Amol, Shankar, Aparna, Shenoi, Fernando, Shetye,
+  Mukherjee, Agarvadekar, Khalap, and Satelkar]{amol2012observational}
+P~Amol, D~Shankar, SG~Aparna, SSC Shenoi, V~Fernando, SR~Shetye, A~Mukherjee,
+  Y~Agarvadekar, S~Khalap, and NP~Satelkar.
+\newblock Observational evidence from direct current measurements for
+  propagation of remotely forced waves on the shelf off the west coast of
+  india.
+\newblock \emph{Journal of Geophysical Research: Oceans}, 117\penalty0 (C5),
+  2012.
 
 \bibitem[Amol et~al.(2014)Amol, Shankar, Fernando, Mukherjee, Aparna,
   Fernandes, Michael, Khalap, Satelkar, Agarvadekar, et~al.]{amol2014observed}
@@ -29,33 +39,21 @@ P~Amol, Suchandan Bemal, D~Shankar, V~Jain, V~Thushara, V~Vijith, and
   during the winter monsoon in the southeastern arabian sea.
 \newblock \emph{Progress in Oceanography}, 186:\penalty0 102365, 2020.
 
+\bibitem[Anil et~al.(2021)Anil, Desai, Khandeparker, Krishnamurthy, Mapari,
+  Mitbavkar, Patil, Sarma, and Sawant]{anil2021short}
+AC~Anil, DV~Desai, L~Khandeparker, V~Krishnamurthy, K~Mapari, S~Mitbavkar,
+  JS~Patil, VVSS Sarma, and SS~Sawant.
+\newblock Short term response of plankton community to nutrient enrichment in
+  central eastern arabian sea: Elucidation through mesocosm experiments.
+\newblock \emph{Journal of Environmental Management}, 288:\penalty0 112390,
+  2021.
+
 \bibitem[Aparna et~al.(2022)Aparna, Desai, Shankar, Anil, Dora, and
   Khedekar]{aparna2022seasonal}
 SG~Aparna, DV~Desai, D~Shankar, AC~Anil, Shrikant Dora, and R~Khedekar.
 \newblock Seasonal cycle of zooplankton standing stock inferred from adcp
   backscatter measurements in the eastern arabian sea.
 \newblock \emph{Progress in Oceanography}, 203:\penalty0 102766, 2022.
-
-\bibitem[{Asha Devi} et~al.(2010){Asha Devi}, Jyothibabu, Sabu, Jacob,
-  Habeebrehman, Prabhakaran, Jayalakshmi, and Achuthankutty]{ashadevi20101070}
-C.R. {Asha Devi}, R.~Jyothibabu, P.~Sabu, Josia Jacob, H.~Habeebrehman, M.P.
-  Prabhakaran, K.J. Jayalakshmi, and C.T. Achuthankutty.
-\newblock Seasonal variations and trophic ecology of microzooplankton in the
-  southeastern arabian sea.
-\newblock \emph{Continental Shelf Research}, 30\penalty0 (9):\penalty0
-  1070--1084, 2010.
-\newblock ISSN 0278-4343.
-\newblock \doi{https://doi.org/10.1016/j.csr.2010.02.007}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0278434310000439}.
-
-\bibitem[Ashjian et~al.(2002)Ashjian, Smith, Flagg, and
-  Idrisi]{ashjian2002distribution}
-Carin~J Ashjian, Sharon~L Smith, Charles~N Flagg, and Nasseer Idrisi.
-\newblock Distribution, annual cycle, and vertical migration of acoustically
-  derived biomass in the arabian sea during 1994--1995.
-\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
-  49\penalty0 (12):\penalty0 2377--2402, 2002.
 
 \bibitem[Banse and English(2000)]{banse2000geographical}
 K~Banse and DC~English.
@@ -87,13 +85,6 @@ Richard~T Barber, John Marra, Robert~C Bidigare, Louis~A Codispoti, David
 \newblock \emph{Deep Sea Res. Part 2 Top. Stud. Oceanogr.}, 48\penalty0
   (6-7):\penalty0 1127--1172, jan 2001.
 
-\bibitem[Barraclough et~al.(1969)Barraclough, LeBrasseur, and
-  Kennedy]{barraclough1969shallow}
-WE~Barraclough, RJ~LeBrasseur, and OD~Kennedy.
-\newblock Shallow scattering layer in the subarctic pacific ocean: detection by
-  high-frequency echo sounder.
-\newblock \emph{Science}, 166\penalty0 (3905):\penalty0 611--613, 1969.
-
 \bibitem[Batchelder et~al.(1995)Batchelder, VanKeuren, Vaillancourt, and
   Swift]{batchelder00981}
 H.~P. Batchelder, J.~R. VanKeuren, R.~D. Vaillancourt, and E.~Swift.
@@ -103,6 +94,13 @@ H.~P. Batchelder, J.~R. VanKeuren, R.~D. Vaillancourt, and E.~Swift.
 \newblock \emph{Journal of Geophysical Research: Oceans}, 100:\penalty0
   6549--6563, 1995.
 \newblock \doi{10.1029/94jc00981}.
+
+\bibitem[Bemal et~al.(2018)Bemal, Anil, Shankar, Remya, and
+  Roy]{bemal2018picophytoplankton}
+Suchandan Bemal, Arga~Chandrashekar Anil, D~Shankar, R~Remya, and Rajdeep Roy.
+\newblock Picophytoplankton variability: Influence of winter convective mixing
+  and advection in the northeastern arabian sea.
+\newblock \emph{Journal of Marine Systems}, 180:\penalty0 37--48, 2018.
 
 \bibitem[Brock and McClain(1992)]{brock1992interannual}
 John~C Brock and Charles~R McClain.
@@ -153,12 +151,25 @@ Boris Cisewski, Volker~H Strass, Monika Rhein, and S{\"o}ren Kr{\"a}gefsky.
 \newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
   57\penalty0 (1):\penalty0 78--94, 2010.
 
+\bibitem[Coyle and Jr(2000)]{coyle2000seasonal}
+Kenneth~O Coyle and George L~Hunt Jr.
+\newblock Seasonal differences in the distribution, density and scale of
+  zooplankton patches in the upper mixed layer near the.
+\newblock \emph{Plankton Biol. Ecol}, 47\penalty0 (1):\penalty0 31--42, 2000.
+
 \bibitem[Deines(1999)]{deines1999backscatter}
 Kent~L Deines.
 \newblock Backscatter estimation using broadband acoustic doppler current
   profilers.
 \newblock In \emph{Proceedings of the IEEE Sixth Working Conference on Current
   Measurement (Cat. No. 99CH36331)}, pages 249--253. IEEE, 1999.
+
+\bibitem[DeSousa et~al.(1996)DeSousa, Dileepkumar, Sardessai, Sarma, and
+  Shirodkar]{desousa1996seasonal}
+SN~DeSousa, M~Dileepkumar, S~Sardessai, VVSS Sarma, and PV~Shirodkar.
+\newblock Seasonal variability in oxygen and nutrients in the central and
+  eastern arabian sea.
+\newblock Indian Academy of Sciences, 1996.
 
 \bibitem[Edvardsen et~al.(2003)Edvardsen, Slagstad, Tande, and
   Jaccard]{edvardsen2003assessing}
@@ -168,14 +179,13 @@ A~Edvardsen, D~Slagstad, KS~Tande, and P~Jaccard.
 \newblock \emph{Fisheries Oceanography}, 12\penalty0 (2):\penalty0 61--74,
   2003.
 
-\bibitem[Fielding et~al.(2004)Fielding, Griffiths, and
-  Roe]{fielding2004biological}
-S~Fielding, G~Griffiths, and HSJ Roe.
-\newblock The biological validation of adcp acoustic backscatter through direct
-  comparison with net samples and model predictions based on
-  acoustic-scattering models.
-\newblock \emph{ICES Journal of Marine Science}, 61\penalty0 (2):\penalty0
-  184--200, 2004.
+\bibitem[Espinasse et~al.(2012)Espinasse, Zhou, Zhu, Hazen, Friedlaender,
+  Nowacek, Chu, and Carlotti]{espinasse2012austral}
+Boris Espinasse, Meng Zhou, Yiwu Zhu, Elliott~L Hazen, Ari~S Friedlaender,
+  Douglas~P Nowacek, Dezhang Chu, and Francois Carlotti.
+\newblock Austral fall- winter transition of mesozooplankton assemblages and
+  krill aggregations in an embayment west of the antarctic peninsula.
+\newblock \emph{Marine Ecology Progress Series}, 452:\penalty0 63--80, 2012.
 
 \bibitem[Flagg and Smith(1989)]{flagg1989use}
 Charles~N Flagg and Sharon~L Smith.
@@ -184,14 +194,11 @@ Charles~N Flagg and Sharon~L Smith.
 \newblock \emph{Deep Sea Research Part A. Oceanographic Research Papers},
   36\penalty0 (3):\penalty0 455--474, 1989.
 
-\bibitem[Friedland et~al.(2012)Friedland, Stock, Drinkwater, Link, Leaf, Shank,
-  Rose, Pilskaln, and Fogarty]{friedland2012pathways}
-Kevin~D Friedland, Charles Stock, Kenneth~F Drinkwater, Jason~S Link, Robert~T
-  Leaf, Burton~V Shank, Julie~M Rose, Cynthia~H Pilskaln, and Michael~J
-  Fogarty.
-\newblock Pathways between primary production and fisheries yields of large
-  marine ecosystems.
-\newblock \emph{PloS one}, 7\penalty0 (1):\penalty0 e28945, 2012.
+\bibitem[Folt and Burns(1999)]{folt1999biological}
+Carol~L Folt and Carolyn~W Burns.
+\newblock Biological drivers of zooplankton patchiness.
+\newblock \emph{Trends in Ecology \& Evolution}, 14\penalty0 (8):\penalty0
+  300--305, 1999.
 
 \bibitem[García et~al.(2014)García, Locarnini, Boyer, Antonov, Mishonov,
   Baranova, Zweng, Reagan, and Johnson]{garcia2013oxygen}
@@ -239,22 +246,20 @@ Graeme~C Hays.
   the 37 th European Marine Biology Symposium held in Reykjav{\'\i}k, Iceland,
   5--9 August 2002}, pages 163--170. Springer, 2003.
 
-\bibitem[Herring et~al.(1998)Herring, Fasham, Weeks, Hemmings, Roe, Pugh,
-  Holley, Crisp, and Angel]{herring1998across}
-PJ~Herring, MJR Fasham, AR~Weeks, JCP Hemmings, HSJ Roe, PR~Pugh, S~Holley,
-  NA~Crisp, and MV~Angel.
-\newblock Across-slope relations between the biological populations, the
-  euphotic zone and the oxygen minimum layer off the coast of oman during the
-  southwest monsoon (august, 1994).
-\newblock \emph{Progress in Oceanography}, 41\penalty0 (1):\penalty0 69--109,
-  1998.
-
 \bibitem[Heywood et~al.(1991)Heywood, Scrope-Howe, and
   Barton]{heywood1991estimation}
 Karen~J Heywood, S~Scrope-Howe, and ED~Barton.
 \newblock Estimation of zooplankton abundance from shipborne adcp backscatter.
 \newblock \emph{Deep Sea Research Part A. Oceanographic Research Papers},
   38\penalty0 (6):\penalty0 677--691, 1991.
+
+\bibitem[Hitchcock et~al.(2002)Hitchcock, Lane, Smith, Luo, and
+  Ortner]{hitchcock2002zooplankton}
+Gary~L Hitchcock, Peter Lane, Sharon Smith, Jiangang Luo, and Peter~B Ortner.
+\newblock Zooplankton spatial distributions in coastal waters of the northern
+  arabian sea, august, 1995.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  49\penalty0 (12):\penalty0 2403--2423, 2002.
 
 \bibitem[Hobbs et~al.(2021)Hobbs, Banas, Cohen, Cottier, Berge, and
   Varpe]{hobbs2021marine}
@@ -277,13 +282,12 @@ Ryuichiro Inoue, Minoru Kitamura, and Tetsuichi Fujiki.
 \newblock \emph{Journal of Geophysical Research: Oceans}, 121\penalty0
   (2):\penalty0 1031--1050, 2016.
 
-\bibitem[Jayakumar et~al.(2004)Jayakumar, Francis, Naqvi, and
-  Ward]{jayakumar.2004}
-D.~A. Jayakumar, Christopher~A. Francis, S.W.A. Naqvi, and Bess~B. Ward.
-\newblock Diversity of nitrite reductase genes (nirs) in the denitrifying water
-  column of the coastal arabian sea.
-\newblock \emph{Aquatic Microbial Ecology}, 2004.
-\newblock \doi{10.3354/ame034069}.
+\bibitem[Jadhav and Smitha(2024)]{jadhav2024abundance}
+Shirin~J Jadhav and BR~Smitha.
+\newblock Abundance distribution pattern of zooplankton associated with the
+  eastern arabian sea monsoon system as detected by underwater acoustics and
+  net sampling.
+\newblock \emph{Acoustics Australia}, pages 1--22, 2024.
 
 \bibitem[Jiang et~al.(2007)Jiang, Dickey, Steinberg, and
   Madin]{jiang2007temporal}
@@ -334,23 +338,26 @@ S~Kidwai and S~Amjad.
   from the north arabian sea.
 \newblock \emph{Mar. Biol.}, 136\penalty0 (3):\penalty0 561--571, apr 2000.
 
-\bibitem[Kumar et~al.(2000)Kumar, Madhupratap, Kumar, Gauns, Muraleedharan,
-  Sarma, and Souza]{Kumar.2000}
-S.~Prasanna Kumar, M.~Madhupratap, M.~Dileep Kumar, Mangesh Gauns, P.M.
-  Muraleedharan, V.~V. S.~S. Sarma, and Sílvia Naves~de Souza.
-\newblock Physical control of primary productivity on a seasonal scale in
-  central and eastern arabian sea.
-\newblock \emph{Journal of Earth System Science}, 2000.
-\newblock \doi{10.1007/bf02708331}.
+\bibitem[Kumar and Narvekar(2005)]{prasannakumara20051848}
+S.~Prasanna Kumar and Jayu Narvekar.
+\newblock Seasonal variability of the mixed layer in the central arabian sea
+  and its implication on nutrients and primary productivity.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  52\penalty0 (14):\penalty0 1848--1861, 2005.
+\newblock ISSN 0967-0645.
+\newblock \doi{https://doi.org/10.1016/j.dsr2.2005.06.002}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0967064505001207}.
+\newblock Biogeochemical Processes in the Northern Indian Ocean.
 
-\bibitem[Le~Qu et~al.(2016)Le~Qu, Andrew, Canadell, Sitch, Korsbakken, Peters,
-  Manning, Boden, Tans, Houghton, et~al.]{le2016global}
-Corinne Le~Qu, Robbie~M Andrew, Josep~G Canadell, Stephen Sitch, Jan~Ivar
-  Korsbakken, Glen~P Peters, Andrew~C Manning, Thomas~A Boden, Pieter~P Tans,
-  Richard~A Houghton, et~al.
-\newblock Global carbon budget 2016.
-\newblock \emph{Earth System Science Data}, 8\penalty0 (2):\penalty0 605--649,
-  2016.
+\bibitem[Lawson et~al.(2004)Lawson, Wiebe, Ashjian, Gallager, Davis, and
+  Warren]{lawson2004acoustically}
+Gareth~L Lawson, Peter~H Wiebe, Carin~J Ashjian, Scott~M Gallager, Cabell~S
+  Davis, and Joseph~D Warren.
+\newblock Acoustically-inferred zooplankton distribution in relation to
+  hydrography west of the antarctic peninsula.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  51\penalty0 (17-19):\penalty0 2041--2072, 2004.
 
 \bibitem[L{\'e}vy et~al.(2007)L{\'e}vy, Shankar, Andr{\'e}, Shenoi, Durand, and
   de~Boyer~Mont{\'e}gut]{levy2007basin}
@@ -376,13 +383,6 @@ Yanliang Liu, Jingsong Guo, Yuhuan Xue, Chalermrat Sangmanee, Huiwu Wang, Chang
   micronekton in the andaman sea observed by a moored adcp.
 \newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
   179:\penalty0 103663, 2022.
-
-\bibitem[Longhurst and Wooster(1990)]{longhurst1990gd}
-Alan~R Longhurst and Warren~S Wooster.
-\newblock Abundance of oil sardine (sardinella longiceps) and upwelling on the
-  southwest coast of india.
-\newblock \emph{Can. J. Fish. Aquat. Sci.}, 47\penalty0 (12):\penalty0
-  2407--2419, dec 1990.
 
 \bibitem[Madhupratap et~al.(1992)Madhupratap, Haridas, Ramaiah, and
   Achuthankutty]{madhupratap1992zooplankton}
@@ -417,24 +417,6 @@ M~Madhupratap, TC~Gopalakrishnan, P~Haridas, and KKC Nair.
 \newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
   48\penalty0 (6-7):\penalty0 1345--1368, 2001.
 
-\bibitem[Maheswaran et~al.(2000)Maheswaran, Rajesh, Revichandran, and
-  Nair]{maheswaran2000upwelling}
-PA~Maheswaran, G~Rajesh, C~Revichandran, and KKC Nair.
-\newblock Upwelling and associated hydrography along the west coast of india
-  during southwest monsoon, 1999.
-\newblock 2000.
-
-\bibitem[Marra and Barber(2005)]{marra2005jgofs}
-John Marra and Richard~T. Barber.
-\newblock Primary productivity in the arabian sea: A synthesis of jgofs data.
-\newblock \emph{Progress in Oceanography}, 65\penalty0 (2):\penalty0 159--175,
-  2005.
-\newblock ISSN 0079-6611.
-\newblock \doi{https://doi.org/10.1016/j.pocean.2005.03.004}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S007966110500042X}.
-\newblock The Arabian Sea of the 1990s: New Biogeochemical Understanding.
-
 \bibitem[McCreary et~al.(2009)McCreary, Murtugudde, Vialard, Vinayachandran,
   Wiggert, Hood, Shankar, and Shetye]{mccreary2009biophysical}
 JP~McCreary, Raghu Murtugudde, Jerome Vialard, PN~Vinayachandran, Jerry~D
@@ -443,53 +425,28 @@ JP~McCreary, Raghu Murtugudde, Jerome Vialard, PN~Vinayachandran, Jerry~D
 \newblock \emph{Indian Ocean biogeochemical processes and ecological
   variability}, 185:\penalty0 9--32, 2009.
 
-\bibitem[McCreary~Jr et~al.(1993)McCreary~Jr, Kundu, and
+\bibitem[McCreary et~al.(1993)McCreary, Kundu, and
   Molinari]{mccreary1993numerical}
-Julian~P McCreary~Jr, Pijush~K Kundu, and Robert~L Molinari.
+Julian~P McCreary, Pijush~K Kundu, and Robert~L Molinari.
 \newblock A numerical investigation of dynamics, thermodynamics and mixed-layer
   processes in the indian ocean.
 \newblock \emph{Progress in Oceanography}, 31\penalty0 (3):\penalty0 181--244,
   1993.
 
-\bibitem[McNaught(1968)]{mcnaught1968acoustical}
-Donald~C McNaught.
-\newblock Acoustical determination of zooplankton distribution.
-\newblock In \emph{Proc. 11th Conf. Great lakes Res.}, pages 76--84, 1968.
+\bibitem[McCreary et~al.(1996)McCreary, Kohler, Hood, and
+  Olson]{mccreary1996four}
+Julian~P McCreary, Kevin~E Kohler, Raleigh~R Hood, and Donald~B Olson.
+\newblock A four-component ecosystem model of biological activity in the
+  arabian sea.
+\newblock \emph{Progress in Oceanography}, 37\penalty0 (3-4):\penalty0
+  193--240, 1996.
 
-\bibitem[Morrison et~al.(1998)Morrison, Codispoti, Gaurin, Jones, Manghnani,
-  and Zheng]{morrison1998seasonal}
-John~M Morrison, LA~Codispoti, S~Gaurin, Burton Jones, V~Manghnani, and
-  Z~Zheng.
-\newblock Seasonal variation of hydrographic and nutrient fields during the us
-  jgofs arabian sea process study.
-\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
-  45\penalty0 (10-11):\penalty0 2053--2101, 1998.
-
-\bibitem[Mukherjee et~al.(2014)Mukherjee, Shankar, Fernando, Amol, Aparna,
-  Fernandes, Michael, Khalap, Satelkar, Agarvadekar,
-  et~al.]{mukherjee2014observed}
-A~Mukherjee, D~Shankar, V~Fernando, P~Amol, SG~Aparna, R~Fernandes, GS~Michael,
-  ST~Khalap, NP~Satelkar, Y~Agarvadekar, et~al.
-\newblock Observed seasonal and intraseasonal variability of the east india
-  coastal current on the continental slope.
-\newblock \emph{Journal of Earth System Science}, 123\penalty0 (6):\penalty0
-  1197--1232, 2014.
-
-\bibitem[Mukhopadhyay et~al.(2020)Mukhopadhyay, Shankar, Aparna, Mukherjee,
-  Fernando, Kankonkar, Khalap, Satelkar, Gaonkar, Tari,
-  et~al.]{mukhopadhyay2020observed}
-S~Mukhopadhyay, D~Shankar, SG~Aparna, A~Mukherjee, V~Fernando, A~Kankonkar,
-  S~Khalap, NP~Satelkar, MG~Gaonkar, AP~Tari, et~al.
-\newblock Observed variability of the east india coastal current on the
-  continental slope during 2009--2018.
-\newblock \emph{Journal of Earth System Science}, 129:\penalty0 1--22, 2020.
-
-\bibitem[Mullison(2017)]{mullison2017backscatter}
-Jerry Mullison.
-\newblock Backscatter estimation using broadband acoustic doppler current
-  profilers-updated.
-\newblock In \emph{Proceedings of the ASCE Hydraulic Measurements \&
-  Experimental Methods Conference, Durham, NH, USA}, pages 9--12, 2017.
+\bibitem[Mukhopadhyay et~al.(2017)Mukhopadhyay, Shankar, Aparna, and
+  Mukherjee]{mukhopadhyay2017st}
+S~Mukhopadhyay, D~Shankar, S~G Aparna, and A~Mukherjee.
+\newblock Observations of the sub-inertial, near-surface east india coastal
+  current.
+\newblock \emph{Cont. Shelf Res.}, 148:\penalty0 159--177, September 2017.
 
 \bibitem[Nair et~al.(1999)Nair, Madhupratap, Gopalakrishnan, Haridas, and
   Gauns]{nair1999arabian}
@@ -503,12 +460,13 @@ PV~Nair.
 \newblock Primary productivity in the indian seas.
 \newblock \emph{CMFRI Bulletin}, 22:\penalty0 1--63, 1970.
 
-\bibitem[Nethery and Shankar(2007)]{nethery2007zm}
-D~Nethery and D~Shankar.
-\newblock Vertical propagation of baroclinic kelvin waves along the west coast
-  of india.
-\newblock \emph{J. Earth Syst. Sci.}, 116\penalty0 (4):\penalty0 331--339, aug
-  2007.
+\bibitem[Napp et~al.(1996)Napp, Incze, Ortner, Siefert, and
+  Britt]{napp1996plankton}
+Jeffrey~M Napp, Lewis~S Incze, Peter~B Ortner, Deborah~LW Siefert, and Lisa
+  Britt.
+\newblock The plankton of shelikof strait, alaska: standing stock, production,
+  mesoscale variability and their relevance to larval fish survival.
+\newblock \emph{Fisheries Oceanography}, 5:\penalty0 19--38, 1996.
 
 \bibitem[Nie et~al.(2023)Nie, Li, Wu, Zhang, Tian, Liu, Sun, Ye, Ma, and
   Gao]{nie2023influence}
@@ -522,29 +480,6 @@ Lingyun Nie, Jianchao Li, Hao Wu, Wenchao Zhang, Yongjun Tian, Yang Liu, Peng
 MD~Ohman and H-J Hirche.
 \newblock Density-dependent mortality in an oceanic copepod population.
 \newblock \emph{Nature}, 412\penalty0 (6847):\penalty0 638--641, 2001.
-
-\bibitem[Padmavati et~al.(1998)Padmavati, Haridas, Nair, Gopalakrishnan,
-  Shiney, and Madhupratap]{padmavati1998vertical}
-G~Padmavati, P~Haridas, KKC Nair, TC~Gopalakrishnan, P~Shiney, and
-  M~Madhupratap.
-\newblock Vertical distribution of mesozooplankton in the central and eastern
-  arabian sea during the winter monsoon.
-\newblock \emph{Journal of Plankton Research}, 20\penalty0 (2):\penalty0
-  343--354, 1998.
-
-\bibitem[Patil et~al.(1964)Patil, Ramamirtham, Varma, and
-  Nair]{patil1964hydrography}
-MR~Patil, CP~Ramamirtham, P~Udaya Varma, and CP~Nair.
-\newblock Hydrography of the west coast of india during the pre-monsoon period
-  of the year 1962.
-\newblock \emph{Journal of marine biological association of India}, 6\penalty0
-  (1):\penalty0 151--164, 1964.
-
-\bibitem[Pieper(1971)]{pieper1971study}
-Richard~Edward Pieper.
-\newblock \emph{A study of the relationship between zooplankton and
-  high-frequency scattering of underwater sound}.
-\newblock PhD thesis, University of British Columbia, 1971.
 
 \bibitem[Piontkovski et~al.(1995)Piontkovski, Williams, and
   Melnik]{piontkovski1995spatial}
@@ -561,10 +496,30 @@ Emmanuel Potiris, Constantin Frangoulis, Alkiviadis Kalampokis, Manolis
   patternsof zooplankton in the cretan sea.
 \newblock \emph{Ocean Science}, 14\penalty0 (4):\penalty0 783--800, 2018.
 
+\bibitem[Prasad and Bahulayan(1996)]{prasad1996mixed}
+TG~Prasad and N~Bahulayan.
+\newblock Mixed layer depth and thermocline climatology of the arabian sea and
+  western equatorial indian ocean.
+\newblock 1996.
+
 \bibitem[Qasim(1977)]{qasim1977biological}
 SZ~Qasim.
 \newblock Biological productivity of the indian ocean.
 \newblock 1977.
+
+\bibitem[Qu{\'e}r{\'e} et~al.(2016)Qu{\'e}r{\'e}, Andrew, Canadell, Sitch,
+  Korsbakken, Peters, Manning, Boden, Tans, Houghton, et~al.]{le2016global}
+Corinne~Le Qu{\'e}r{\'e}, Robbie~M Andrew, Josep~G Canadell, Stephen Sitch,
+  Jan~Ivar Korsbakken, Glen~P Peters, Andrew~C Manning, Thomas~A Boden,
+  Pieter~P Tans, Richard~A Houghton, et~al.
+\newblock Global carbon budget 2016.
+\newblock \emph{Earth System Science Data}, 8\penalty0 (2):\penalty0 605--649,
+  2016.
+
+\bibitem[Raghukumar and Anil(2003)]{raghukumar2003marine}
+Seshagiri Raghukumar and AC~Anil.
+\newblock Marine biodiversity and ecosystem functioning: A perspective.
+\newblock \emph{Current Science}, 84\penalty0 (7):\penalty0 884--892, 2003.
 
 \bibitem[Ramamirtham and Murty(1965)]{ramamirtham1965hydrography}
 CP~Ramamirtham and AVS Murty.
@@ -602,35 +557,20 @@ John~H Ryther, John~R Hall, Allan~K Pease, Andrew Bakun, and Mark~M Jones.
 \newblock \emph{Limnology and Oceanography}, 11\penalty0 (3):\penalty0
   371--380, 1966.
 
-\bibitem[Sameoto and Paulowich(1977)]{sameoto1977use}
-D~Sameoto and S~Paulowich.
-\newblock The use of 120 khz sonar in zooplankton studies.
-\newblock In \emph{OCEANS'77 Conference Record}, pages 523--528. IEEE, 1977.
+\bibitem[Schmidt et~al.(2020)Schmidt, Czeschel, and
+  Visbeck]{schmidt2020seasonal}
+Henrike Schmidt, Rena Czeschel, and Martin Visbeck.
+\newblock Seasonal variability of the arabian sea intermediate circulation and
+  its impact on seasonal changes of the upper oxygen minimum zone.
+\newblock \emph{Ocean Science}, 16\penalty0 (6):\penalty0 1459--1474, 2020.
 
-\bibitem[Sarma et~al.(2020)Sarma, Bhaskar, Kumar, and
-  Chakraborty]{sarma2020potential}
-VVSS Sarma, TVS~Udaya Bhaskar, J~Pavan Kumar, and Kunal Chakraborty.
-\newblock Potential mechanisms responsible for occurrence of core oxygen
-  minimum zone in the north-eastern arabian sea.
-\newblock \emph{Deep Sea Research Part I: Oceanographic Research Papers},
-  165:\penalty0 103393, 2020.
-
-\bibitem[Schott and McCreary(2001)]{schott20011}
-Friedrich~A. Schott and Julian~P. McCreary.
-\newblock The monsoon circulation of the indian ocean.
-\newblock \emph{Progress in Oceanography}, 51\penalty0 (1):\penalty0 1--123,
-  2001.
-\newblock ISSN 0079-6611.
-\newblock \doi{https://doi.org/10.1016/S0079-6611(01)00083-0}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0079661101000830}.
-
-\bibitem[Shankar and Shetye(1997)]{shankar1997dynamics}
-D~Shankar and SR~Shetye.
-\newblock On the dynamics of the lakshadweep high and low in the southeastern
-  arabian sea.
-\newblock \emph{Journal of Geophysical Research: Oceans}, 102\penalty0
-  (C6):\penalty0 12551--12562, 1997.
+\bibitem[Shankar et~al.(2005)Shankar, Shenoi, Nayak, Vinayachandran,
+  Nampoothiri, Almeida, Michael, Kumar, Sundar, and
+  Sreejith]{shankar2002hydrography}
+D~Shankar, SSC Shenoi, RK~Nayak, PN~Vinayachandran, G~Nampoothiri, AM~Almeida,
+  GS~Michael, MR~Ramesh Kumar, D~Sundar, and OP~Sreejith.
+\newblock Hydrography of the eastern arabian sea during summer monsoon 2002.
+\newblock \emph{Journal of earth system science}, 114:\penalty0 459--474, 2005.
 
 \bibitem[Shankar et~al.(2016)Shankar, Remya, Vinayachandran, Chatterjee, and
   Behera]{shankar2016inhibition}
@@ -645,11 +585,13 @@ D~Shankar, R~Remya, AC~Anil, and V~Vijith.
   the eastern arabian sea.
 \newblock \emph{Progress in Oceanography}, 172:\penalty0 124--158, 2019.
 
-\bibitem[Shetye and Gouveia(1998)]{shetye1998coastal}
-SR~Shetye and AD~Gouveia.
-\newblock Coastal circulation in the north indian ocean: Coastal segment (14,
-  sw).
-\newblock John Wiley and Sons, New York, USA, 1998.
+\bibitem[Shenoi et~al.(2005)Shenoi, Shankar, Michael, Kurian, Varma, Kumar,
+  Almeida, Unnikrishnan, Fernandes, Barreto, et~al.]{shenoi2005hydrography}
+SSC Shenoi, D~Shankar, GS~Michael, J~Kurian, KK~Varma, MR~Ramesh Kumar,
+  AM~Almeida, AS~Unnikrishnan, W~Fernandes, N~Barreto, et~al.
+\newblock Hydrography and water masses in the southeastern arabian sea during
+  march--june 2003.
+\newblock \emph{Journal of earth system science}, 114:\penalty0 475--491, 2005.
 
 \bibitem[Shetye et~al.(1990)Shetye, Gouveia, Shenoi, Sundar, Michael, Almeida,
   and Santanam]{shetye1990hydrography}
@@ -660,12 +602,16 @@ SR~Shetye, AD~Gouveia, SSC Shenoi, D~Sundar, GS~Michael, AM~Almeida, and
 \newblock 1990.
 
 \bibitem[Shetye et~al.(1991)Shetye, Gouveia, Shenoi, Michael, Sundar, Almeida,
-  and Santanam]{shetye1991coastal}
-SR~Shetye, AD~Gouveia, SSC Shenoi, GS~Michael, D~Sundar, AM~Almeida, and
-  K~Santanam.
+  and Santanam]{shetye19911517}
+S.R. Shetye, A.D. Gouveia, S.S.C. Shenoi, G.S. Michael, D.~Sundar, A.M.
+  Almeida, and K.~Santanam.
 \newblock The coastal current off western india during the northeast monsoon.
 \newblock \emph{Deep Sea Research Part A. Oceanographic Research Papers},
   38\penalty0 (12):\penalty0 1517--1529, 1991.
+\newblock ISSN 0198-0149.
+\newblock \doi{https://doi.org/10.1016/0198-0149(91)90087-V}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/019801499190087V}.
 
 \bibitem[Shetye et~al.(1992)Shetye, Gouveia, and Shenoi]{shetye1992does}
 SR~Shetye, AD~Gouveia, and SSC Shenoi.
@@ -678,22 +624,6 @@ Wei Shi and Menghua Wang.
 \newblock Phytoplankton biomass dynamics in the arabian sea from viirs
   observations.
 \newblock \emph{Journal of Marine Systems}, 227:\penalty0 103670, 2022.
-
-\bibitem[Shi et~al.(1999)Shi, Morrison, B{\"o}hm, and
-  Manghnani]{shi1999remotely}
-Wei Shi, John~M Morrison, Emanuele B{\"o}hm, and Vijayakumar Manghnani.
-\newblock Remotely sensed features in the us jgofs arabian sea process study.
-\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
-  46\penalty0 (8-9):\penalty0 1551--1575, 1999.
-
-\bibitem[Silsbe et~al.(2016)Silsbe, Behrenfeld, Halsey, Milligan, and
-  Westberry]{silsbe2016cafe}
-Greg~M Silsbe, Michael~J Behrenfeld, Kimberly~H Halsey, Allen~J Milligan, and
-  Toby~K Westberry.
-\newblock The cafe model: A net production model for global ocean
-  phytoplankton.
-\newblock \emph{Global Biogeochemical Cycles}, 30\penalty0 (12):\penalty0
-  1756--1777, 2016.
 
 \bibitem[Smeti et~al.(2015)Smeti, Pagano, Menkes, Lebourges-Dhaussy, Hunt,
   Allain, Rodier, De~Boissieu, Kestenare, and Sammari]{smeti2015spatial}
@@ -743,18 +673,6 @@ R~Subrahmanyan and AH~Sarma.
 \newblock \emph{Indian Journal of Fisheries}, 7\penalty0 (2):\penalty0
   307--336, 1960.
 
-\bibitem[Sudheesh et~al.(2022)Sudheesh, Gupta, Reddy, Bepari, Chari, Sherin,
-  Shaju, Ramu, and Vijayan]{sudheesh2022omz}
-V.~Sudheesh, G.V.M. Gupta, Yudhishtir Reddy, Kausar~F. Bepari, N.V.H.K. Chari,
-  C.K. Sherin, S.S. Shaju, Ch.V. Ramu, and Anil~Kumar Vijayan.
-\newblock Oxygen minimum zone along the eastern arabian sea: Intra-annual
-  variation and dynamics based on ship-borne studies.
-\newblock \emph{Progress in Oceanography}, 201:\penalty0 102742, 2022.
-\newblock ISSN 0079-6611.
-\newblock \doi{https://doi.org/10.1016/j.pocean.2022.102742}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0079661122000040}.
-
 \bibitem[Ursella et~al.(2018)Ursella, Cardin, Batisti{\'c}, Gari{\'c}, and
   Ga{\v{c}}i{\'c}]{ursella2018evidence}
 Laura Ursella, Vanessa Cardin, Mirna Batisti{\'c}, Rade Gari{\'c}, and Miroslav
@@ -780,6 +698,21 @@ V~Vijith, PN~Vinayachandran, V~Thushara, P~Amol, D~Shankar, and AC~Anil.
 \newblock \emph{Journal of Geophysical Research: Oceans}, 121\penalty0
   (9):\penalty0 6583--6603, 2016.
 
+\bibitem[Vijith et~al.(2022)Vijith, Shetye, Gouveia, Shenoi, Michael, and
+  Sundar]{vijith2022circulation}
+V~Vijith, SR~Shetye, AD~Gouveia, SSC Shenoi, GS~Michael, and D~Sundar.
+\newblock Circulation in the region of the west india coastal current in march
+  1994 hydrographic and altimeter data.
+\newblock \emph{Journal of Earth System Science}, 131\penalty0 (1):\penalty0
+  16, 2022.
+
+\bibitem[Wade and Heywood(2001)]{wade2001acoustic}
+Ian~P Wade and Karen~J Heywood.
+\newblock Acoustic backscatter observations of zooplankton abundance and
+  behaviour and the influence of oceanic fronts in the northeast atlantic.
+\newblock \emph{Deep Sea Research Part II: Topical Studies in Oceanography},
+  48\penalty0 (4-5):\penalty0 899--924, 2001.
+
 \bibitem[Wiebe et~al.(1990)Wiebe, Greene, Stanton, and
   Burczynski]{wiebe1990sound}
 Peter~H Wiebe, Charles~H Greene, Timothy~K Stanton, and Janusz Burczynski.
@@ -787,6 +720,13 @@ Peter~H Wiebe, Charles~H Greene, Timothy~K Stanton, and Janusz Burczynski.
   studies with a dual-beam acoustical system.
 \newblock \emph{The Journal of the Acoustical Society of America}, 88\penalty0
   (5):\penalty0 2346--2360, 1990.
+
+\bibitem[Wiggert et~al.(2005)Wiggert, Hood, Banse, and
+  Kindle]{wiggert2005monsoon}
+Jerry~D Wiggert, RR~Hood, Karl Banse, and JC~Kindle.
+\newblock Monsoon-driven biogeochemical processes in the arabian sea.
+\newblock \emph{Progress in Oceanography}, 65\penalty0 (2-4):\penalty0
+  176--213, 2005.
 
 \bibitem[Winder and Schindler(2004)]{winder2004climatic}
 Monika Winder and Daniel~E Schindler.

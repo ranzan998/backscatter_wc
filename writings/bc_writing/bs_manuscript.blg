@@ -3,58 +3,65 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: bs_manuscript.aux
 The style file: plainnat.bst
 Database file #1: bs_citations.bib
-Repeated entry---line 538 of file bs_citations.bib
+Repeated entry---line 501 of file bs_citations.bib
+ : @article{smith1998seasonal
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 582 of file bs_citations.bib
  : @article{nair1999arabian
  :                         ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for ""
+Repeated entry---line 961 of file bs_citations.bib
+ : @article{madhupratap1996lack
+ :                             ,
+I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in banse1968hydrography
+Warning--empty booktitle in desousa1996seasonal
 Warning--empty journal in madhupratap1992zooplankton
-Warning--empty journal in maheswaran2000upwelling
 Warning--empty journal in nair1999arabian
+Warning--empty journal in prasad1996mixed
 Warning--empty journal in qasim1977biological
-Warning--empty booktitle in shetye1998coastal
 Warning--empty journal in shetye1990hydrography
 Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 102 entries,
+You've used 96 entries,
             2773 wiz_defined-function locations,
-            1208 strings with 29227 characters,
-and the built_in function-call counts, 59944 in all, are:
-= -- 5179
-> -- 4560
-< -- 43
-+ -- 1531
-- -- 1428
-* -- 5548
-:= -- 9393
-add.period$ -- 328
-call.type$ -- 102
-change.case$ -- 775
-chr.to.int$ -- 101
-cite$ -- 212
-duplicate$ -- 2194
-empty$ -- 4130
-format.name$ -- 1570
-if$ -- 12227
+            1164 strings with 27753 characters,
+and the built_in function-call counts, 56651 in all, are:
+= -- 4875
+> -- 4378
+< -- 38
++ -- 1468
+- -- 1371
+* -- 5271
+:= -- 8892
+add.period$ -- 301
+call.type$ -- 96
+change.case$ -- 740
+chr.to.int$ -- 95
+cite$ -- 200
+duplicate$ -- 2050
+empty$ -- 3866
+format.name$ -- 1507
+if$ -- 11525
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 101
-newline$ -- 535
-num.names$ -- 408
-pop$ -- 1408
+missing$ -- 96
+newline$ -- 497
+num.names$ -- 384
+pop$ -- 1337
 preamble$ -- 1
-purify$ -- 674
+purify$ -- 644
 quote$ -- 0
-skip$ -- 1829
+skip$ -- 1719
 stack$ -- 0
-substring$ -- 2496
-swap$ -- 186
-text.length$ -- 11
+substring$ -- 2341
+swap$ -- 161
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1122
+type$ -- 1056
 warning$ -- 8
-while$ -- 480
+while$ -- 454
 width$ -- 0
-write$ -- 1361
-(There was 1 error message)
+write$ -- 1268
+(There were 3 error messages)

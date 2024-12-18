@@ -1,0 +1,12 @@
+
+
+
+The document examines the variability in zooplankton biomass and standing stock (ZSS) across different regions of the Eastern Arabian Sea (EAS), highlighting seasonal and spatial trends influenced by environmental factors such as depth, oxygen levels, and water temperature. The study focuses on long-term data (2017-2023) from various locations, including Kollam, Udupi, Goa, Jaigarh, Mumbai, and Okha, revealing distinct patterns in the biomass distribution and ZSS variability.
+
+The findings suggest a notable seasonal variation in ZSS, particularly in the Southern and Central EAS, where higher biomass is observed during the summer monsoon. In contrast, Northern regions, such as Jaigarh and Mumbai, show ZSS peaks during the winter monsoon. Off Kollam, a unique double peak in ZSS occurs, one during May to July and another in September to November, suggesting a complex interaction between environmental drivers and zooplankton growth. The southernmost site, Kanyakumari, shows less seasonal variation in ZSS, with a relatively stable biomass throughout the year.
+
+In terms of depth-related variability, the study finds that the decline in biomass with increasing depth is more pronounced in the Northern EAS, particularly off Mumbai and Jaigarh, where the upper ocean biomass is significantly higher. This pattern is less pronounced in the Southern EAS, where locations like Kanyakumari exhibit a weaker decline in biomass with depth.
+
+Annual and semi-annual cycles play a crucial role in regulating biomass variability. A strong annual cycle is observed in Northern sites like Mumbai and Jaigarh, with biomass peaking during winter monsoon months. However, the Southern and Central regions, particularly off Kollam, exhibit more complex patterns. Off Kollam, the presence of a weak annual cycle and a stronger semi-annual cycle is noted, indicating a biennial component in biomass variability. The semi-annual cycle is especially prominent in the Southern EAS, where it contributes significantly to the seasonal biomass changes, while Northern regions show a dominance of the annual cycle.
+
+Intraseasonal variability, particularly in the 30šC90 day range, is found to influence zooplankton biomass significantly, especially in the summer months. This variability is higher in the Southern EAS, with the Northern regions displaying more stable patterns. The study underscores the complexity of zooplankton dynamics in the EAS, driven by multiple temporal scales and environmental interactions, particularly related to monsoonal cycles.

@@ -1,0 +1,68 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Amol et~al.(2014)Amol, Shankar, Fernando, Mukherjee, Aparna,
+  Fernandes, Michael, Khalap, Satelkar, Agarvadekar, et~al.]{amol2014observed}
+P~Amol, D~Shankar, V~Fernando, A~Mukherjee, SG~Aparna, R~Fernandes, GS~Michael,
+  ST~Khalap, NP~Satelkar, Y~Agarvadekar, et~al.
+\newblock Observed intraseasonal and seasonal variability of the west india
+  coastal current on the continental slope.
+\newblock \emph{Journal of Earth System Science}, 123\penalty0 (5):\penalty0
+  1045--1074, 2014.
+
+\bibitem[Aparna et~al.(2022)Aparna, Desai, Shankar, Anil, Dora, and
+  Khedekar]{aparna2022seasonal}
+SG~Aparna, DV~Desai, D~Shankar, AC~Anil, Shrikant Dora, and R~Khedekar.
+\newblock Seasonal cycle of zooplankton standing stock inferred from adcp
+  backscatter measurements in the eastern arabian sea.
+\newblock \emph{Progress in Oceanography}, 203:\penalty0 102766, 2022.
+
+\bibitem[Chaudhuri et~al.(2020)Chaudhuri, Shankar, Aparna, Amol, Fernando,
+  Kankonkar, Michael, Satelkar, Khalap, Tari, et~al.]{chaudhuri2020observed}
+Anya Chaudhuri, D~Shankar, SG~Aparna, P~Amol, V~Fernando, A~Kankonkar,
+  GS~Michael, NP~Satelkar, ST~Khalap, AP~Tari, et~al.
+\newblock Observed variability of the west india coastal current on the
+  continental slope from 2009--2018.
+\newblock \emph{Journal of Earth System Science}, 129\penalty0 (1):\penalty0
+  57, 2020.
+
+\bibitem[Duchon(1979)]{duchon1979lanczos}
+Claude~E Duchon.
+\newblock Lanczos filtering in one and two dimensions.
+\newblock \emph{Journal of Applied Meteorology and Climatology}, 18\penalty0
+  (8):\penalty0 1016--1022, 1979.
+
+\bibitem[Jensen(2001)]{jensen2001arabian}
+Tommy~G Jensen.
+\newblock Arabian sea and bay of bengal exchange of salt and tracers in an
+  ocean model.
+\newblock \emph{Geophysical Research Letters}, 28\penalty0 (20):\penalty0
+  3967--3970, 2001.
+
+\bibitem[Maraun and Kurths(2004)]{maraun2004cross}
+Douglas Maraun and J{\"u}rgen Kurths.
+\newblock Cross wavelet analysis: significance testing and pitfalls.
+\newblock \emph{Nonlinear Processes in Geophysics}, 11\penalty0 (4):\penalty0
+  505--514, 2004.
+
+\bibitem[Schott and McCreary(2001)]{schott20011}
+Friedrich~A. Schott and Julian~P. McCreary.
+\newblock The monsoon circulation of the indian ocean.
+\newblock \emph{Progress in Oceanography}, 51\penalty0 (1):\penalty0 1--123,
+  2001.
+\newblock ISSN 0079-6611.
+\newblock \doi{https://doi.org/10.1016/S0079-6611(01)00083-0}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0079661101000830}.
+
+\bibitem[Torrence and Compo(1998)]{torrence1998practical}
+Christopher Torrence and Gilbert~P Compo.
+\newblock A practical guide to wavelet analysis.
+\newblock \emph{Bulletin of the American Meteorological society}, 79\penalty0
+  (1):\penalty0 61--78, 1998.
+
+\end{thebibliography}
