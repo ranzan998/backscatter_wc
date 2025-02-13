@@ -1,0 +1,266 @@
+\begin{thebibliography}{32}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Blondel et~al.(2008)Blondel, Guillaume, Lambiotte and
+  Lefebvre}]{Blondeletal2008}
+\bibinfo{author}{Blondel, V.D.}, \bibinfo{author}{Guillaume, J.L.},
+  \bibinfo{author}{Lambiotte, R.}, \bibinfo{author}{Lefebvre, E.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{Fast unfolding of communities in large networks}.
+\newblock \bibinfo{journal}{J. Stat. Mech.-Theory Exp.} \bibinfo{volume}{2008},
+  \bibinfo{pages}{P10008}.
+%Type = Article
+\bibitem[{Chen et~al.(2013)Chen, Wu and Fang}]{Chenetal2013}
+\bibinfo{author}{Chen, Q.}, \bibinfo{author}{Wu, T.T.}, \bibinfo{author}{Fang,
+  M.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Detecting local community structure in complex
+  networks based on local degree central nodes}.
+\newblock \bibinfo{journal}{Physica A.} \bibinfo{volume}{392},
+  \bibinfo{pages}{529--537}.
+%Type = Article
+\bibitem[{Clauset et~al.(2004)Clauset, Newman and Moore}]{Clausetetal2004}
+\bibinfo{author}{Clauset, A.}, \bibinfo{author}{Newman, M.E.J.},
+  \bibinfo{author}{Moore, C.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Finding community structure in very large networks}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{70},
+  \bibinfo{pages}{066111}.
+%Type = Article
+\bibitem[{Danon et~al.(2005)Danon, Diaz-Guilera, Duch and
+  Arenas}]{Danonetal2005}
+\bibinfo{author}{Danon, L.}, \bibinfo{author}{Diaz-Guilera, A.},
+  \bibinfo{author}{Duch, J.}, \bibinfo{author}{Arenas, A.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Comparing community structure identification}.
+\newblock \bibinfo{journal}{J. Stat. Mech.-Theory Exp.} ,
+  \bibinfo{pages}{P09008}.
+%Type = Article
+\bibitem[{Fabio et~al.(2013)Fabio, Fabio and Carlo}]{Fabioetal2013}
+\bibinfo{author}{Fabio, D.R.}, \bibinfo{author}{Fabio, D.},
+  \bibinfo{author}{Carlo, P.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Profiling core-periphery network structure by random
+  walkers}.
+\newblock \bibinfo{journal}{Sci. Rep.} \bibinfo{volume}{3},
+  \bibinfo{pages}{1467}.
+%Type = Article
+\bibitem[{Fabricio and Liang(2013)}]{FabricioLiang2013}
+\bibinfo{author}{Fabricio, B.}, \bibinfo{author}{Liang, Z.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Fuzzy community structure detection by particle
+  competition and cooperation}.
+\newblock \bibinfo{journal}{Soft Comput.} \bibinfo{volume}{17},
+  \bibinfo{pages}{659--673}.
+%Type = Article
+\bibitem[{Fortunato(2010)}]{Fortunato2010}
+\bibinfo{author}{Fortunato, S.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Community detection in graphs}.
+\newblock \bibinfo{journal}{Phys. Rep.-Rev. Sec. Phys. Lett.}
+  \bibinfo{volume}{486}, \bibinfo{pages}{75--174}.
+%Type = Article
+\bibitem[{Fortunato and Barthelemy(2007)}]{FortunatoBarthelemy2007}
+\bibinfo{author}{Fortunato, S.}, \bibinfo{author}{Barthelemy, M.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Resolution limit in community detection}.
+\newblock \bibinfo{journal}{Proc. Natl. Acad. Sci. U. S. A.}
+  \bibinfo{volume}{104}, \bibinfo{pages}{36--41}.
+%Type = Article
+\bibitem[{Gregory(2011)}]{Gregory2011}
+\bibinfo{author}{Gregory, S.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Fuzzy overlapping communities in networks}.
+\newblock \bibinfo{journal}{J. Stat. Mech.-Theory Exp.} ,
+  \bibinfo{pages}{P02017}.
+%Type = Article
+\bibitem[{Havens et~al.(2013)Havens, Bezdek, Leckie, Ramamohanarao and
+  Palaniswami}]{Havensetal2013}
+\bibinfo{author}{Havens, T.C.}, \bibinfo{author}{Bezdek, J.C.},
+  \bibinfo{author}{Leckie, C.}, \bibinfo{author}{Ramamohanarao, K.},
+  \bibinfo{author}{Palaniswami, M.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{A soft modularity function for detecting fuzzy
+  communities in social networks}.
+\newblock \bibinfo{journal}{IEEE Trans. Fuzzy Syst.} \bibinfo{volume}{21},
+  \bibinfo{pages}{1170--1175}.
+%Type = Inproceedings
+\bibitem[{Hullermeier and Rifqi(2009)}]{HullermeierRifqi2009}
+\bibinfo{author}{Hullermeier, E.}, \bibinfo{author}{Rifqi, M.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{A fuzzy variant of the rand index for comparing
+  clustering structures}, in: \bibinfo{booktitle}{in Proc. IFSA/EUSFLAT Conf.},
+  pp. \bibinfo{pages}{1294--1298}.
+%Type = Article
+\bibitem[{Lancichinetti and Fortunato(2009)}]{LancichinettiFortunato2009}
+\bibinfo{author}{Lancichinetti, A.}, \bibinfo{author}{Fortunato, S.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Benchmarks for testing community detection algorithms
+  on directed and weighted graphs with overlapping communities}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{80},
+  \bibinfo{pages}{016118}.
+%Type = Article
+\bibitem[{Lancichinetti et~al.(2008)Lancichinetti, Fortunato and
+  Radicchi}]{Lancichinettietal2008}
+\bibinfo{author}{Lancichinetti, A.}, \bibinfo{author}{Fortunato, S.},
+  \bibinfo{author}{Radicchi, F.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{Benchmark graphs for testing community detection
+  algorithms}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{78},
+  \bibinfo{pages}{046110}.
+%Type = Article
+\bibitem[{Li et~al.(2013)Li, Wang and Eustace}]{Lietal2013}
+\bibinfo{author}{Li, J.}, \bibinfo{author}{Wang, X.}, \bibinfo{author}{Eustace,
+  J.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Detecting overlapping communities by seed community
+  in weighted complex networks}.
+\newblock \bibinfo{journal}{Physica A.} \bibinfo{volume}{392},
+  \bibinfo{pages}{6125--6134}.
+%Type = Article
+\bibitem[{Liu(2010)}]{Liu2010}
+\bibinfo{author}{Liu, J.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Fuzzy modularity and fuzzy community structure in
+  networks}.
+\newblock \bibinfo{journal}{Eur. Phys. J. B.} \bibinfo{volume}{77},
+  \bibinfo{pages}{547--557}.
+%Type = Article
+\bibitem[{Liu et~al.(2014)Liu, Pellegrini and Wang}]{Liuetal2014}
+\bibinfo{author}{Liu, W.}, \bibinfo{author}{Pellegrini, M.},
+  \bibinfo{author}{Wang, X.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Detecting communities based on network topology}.
+\newblock \bibinfo{journal}{Sci. Rep.} \bibinfo{volume}{4},
+  \bibinfo{pages}{5739}.
+%Type = Article
+\bibitem[{Lou et~al.(2013)Lou, Li and Zhao}]{Louetal2013}
+\bibinfo{author}{Lou, H.}, \bibinfo{author}{Li, S.}, \bibinfo{author}{Zhao,
+  Y.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Detecting community structure using label propagation
+  with weighted coherent neighborhood propinquity}.
+\newblock \bibinfo{journal}{Physica A.} \bibinfo{volume}{392},
+  \bibinfo{pages}{3095--3105}.
+%Type = Article
+\bibitem[{Nepusz et~al.(2008)Nepusz, Petr\'oczi, N\'egyessy and
+  Bazs\'o}]{Nepuszetal2008}
+\bibinfo{author}{Nepusz, T.}, \bibinfo{author}{Petr\'oczi, A.},
+  \bibinfo{author}{N\'egyessy, L.}, \bibinfo{author}{Bazs\'o, F.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{Fuzzy communities and the concept of bridgeness in
+  complex networks}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{77},
+  \bibinfo{pages}{016107}.
+%Type = Misc
+\bibitem[{Newman(2013)}]{Newman2013}
+\bibinfo{author}{Newman, M.E.J.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Network data}.
+\newblock
+  \bibinfo{howpublished}{\url{http://www-personal.umich.edu/~mejn/netdata/}}.
+%Type = Article
+\bibitem[{Newman and Girvan(2004)}]{NewmanGirvan2004}
+\bibinfo{author}{Newman, M.E.J.}, \bibinfo{author}{Girvan, M.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Finding and evaluating community structure in
+  networks}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{69},
+  \bibinfo{pages}{026113}.
+%Type = Article
+\bibitem[{Psorakis et~al.(2011)Psorakis, Roberts, Ebden and
+  Sheldon}]{Psorakisetal2011}
+\bibinfo{author}{Psorakis, I.}, \bibinfo{author}{Roberts, S.},
+  \bibinfo{author}{Ebden, M.}, \bibinfo{author}{Sheldon, B.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Overlapping community detection using bayesian
+  non-negative matrix factorization}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{83},
+  \bibinfo{pages}{066114}.
+%Type = Article
+\bibitem[{Raghavan et~al.(2007)Raghavan, Albert and Kumara}]{Raghavanetal2007}
+\bibinfo{author}{Raghavan, U.}, \bibinfo{author}{Albert, R.},
+  \bibinfo{author}{Kumara, S.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Near linear time algorithm to detect community
+  structures in large-scale networks}.
+\newblock \bibinfo{journal}{Phys. Rev E.} \bibinfo{volume}{76},
+  \bibinfo{pages}{036106}.
+%Type = Article
+\bibitem[{Sobolevsky and Campari(2014)}]{SobolevskyCampari2014}
+\bibinfo{author}{Sobolevsky, S.}, \bibinfo{author}{Campari, R.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{General optimization technique for high-quality
+  community detection in complex networks}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{90},
+  \bibinfo{pages}{012811}.
+%Type = Article
+\bibitem[{Sun et~al.(2011)Sun, Gao and Han}]{Sunetal2011}
+\bibinfo{author}{Sun, P.}, \bibinfo{author}{Gao, L.}, \bibinfo{author}{Han,
+  S.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Identification of overlapping and non-overlapping
+  community structure by fuzzy clustering in complex networks}.
+\newblock \bibinfo{journal}{Inf. Sci.} \bibinfo{volume}{181},
+  \bibinfo{pages}{1060--1071}.
+%Type = Article
+\bibitem[{Vehlow et~al.(2013)Vehlow, Reinhardt and Weiskopf}]{Vehlowetal2013}
+\bibinfo{author}{Vehlow, C.}, \bibinfo{author}{Reinhardt, T.},
+  \bibinfo{author}{Weiskopf, D.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Visualizing fuzzy overlapping communities in
+  networks}.
+\newblock \bibinfo{journal}{IEEE Trans. Vis. Comput. Graph.}
+  \bibinfo{volume}{19}, \bibinfo{pages}{2486--2495}.
+%Type = Article
+\bibitem[{\v{S}ubelj and Bajec(2011a)}]{SubeljBajec2011a}
+\bibinfo{author}{\v{S}ubelj, L.}, \bibinfo{author}{Bajec, M.},
+  \bibinfo{year}{2011}a.
+\newblock \bibinfo{title}{Robust network community detection using balanced
+  propagation}.
+\newblock \bibinfo{journal}{Eur. Phys. J. B.} \bibinfo{volume}{81},
+  \bibinfo{pages}{353--362}.
+%Type = Article
+\bibitem[{\v{S}ubelj and Bajec(2011b)}]{SubeljBajec2011b}
+\bibinfo{author}{\v{S}ubelj, L.}, \bibinfo{author}{Bajec, M.},
+  \bibinfo{year}{2011}b.
+\newblock \bibinfo{title}{Unfolding communities in large complex networks:
+  Combining defensive and offensive label propagation for core extraction}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{83},
+  \bibinfo{pages}{036103}.
+%Type = Article
+\bibitem[{\v{S}ubelj and Bajec(2012)}]{SubeljBajec2012}
+\bibinfo{author}{\v{S}ubelj, L.}, \bibinfo{author}{Bajec, M.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Ubiquitousness of link-density and link-pattern
+  communities in real-world networks}.
+\newblock \bibinfo{journal}{Eur. Phys. J. B.} \bibinfo{volume}{85},
+  \bibinfo{pages}{1--11}.
+%Type = Article
+\bibitem[{Wang et~al.(2013)Wang, Liu, Liu and Pan}]{Wangetal2013}
+\bibinfo{author}{Wang, W.}, \bibinfo{author}{Liu, D.}, \bibinfo{author}{Liu,
+  X.}, \bibinfo{author}{Pan, L.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Fuzzy overlapping community detection based on local
+  random walk and multidimensional scaling}.
+\newblock \bibinfo{journal}{Physica A.} \bibinfo{volume}{392},
+  \bibinfo{pages}{6578--6586}.
+%Type = Article
+\bibitem[{Wang and Li(2013)}]{WangLi2013}
+\bibinfo{author}{Wang, X.}, \bibinfo{author}{Li, J.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Detecting communities by the core-vertex and intimate
+  degree in complex networks}.
+\newblock \bibinfo{journal}{Physica A.} \bibinfo{volume}{392},
+  \bibinfo{pages}{2555--2563}.
+%Type = Article
+\bibitem[{Zhang et~al.(2007)Zhang, Wang and Zhang}]{Zhangetal2007}
+\bibinfo{author}{Zhang, S.}, \bibinfo{author}{Wang, R.},
+  \bibinfo{author}{Zhang, X.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Identification of overlapping community structure in
+  complex networks using fuzzy c-means clustering}.
+\newblock \bibinfo{journal}{Physica A.} \bibinfo{volume}{374},
+  \bibinfo{pages}{483--490}.
+%Type = Inproceedings
+\bibitem[{Zhang and Yeung(2012)}]{ZhangYeung2012}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Yeung, D.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Overlapping community detection via bounded
+  nonnegative matrix tri-factorization}, in: \bibinfo{booktitle}{In Proc. ACM
+  SIGKDD Conf.}, pp. \bibinfo{pages}{606--614}.
+
+\end{thebibliography}

@@ -261,3 +261,5 @@ dmypy.json
 .pyre/
 
 .nc
+
+manuscript_bs/

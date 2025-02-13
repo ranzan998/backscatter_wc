@@ -1,67 +1,63 @@
 This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: bs_manuscript.aux
-The style file: plainnat.bst
-Database file #1: bs_citations.bib
-Repeated entry---line 501 of file bs_citations.bib
- : @article{smith1998seasonal
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 582 of file bs_citations.bib
+The style file: elsarticle-harv.bst.bst
+Illegal, another \bibstyle command---line 115 of file bs_manuscript.aux
+ : \bibstyle
+ :          {elsarticle-harv.bst}
+I'm skipping whatever remains of this command
+Database file #1: bs_citations_mod.bib
+Repeated entry---line 630 of file bs_citations_mod.bib
  : @article{nair1999arabian
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 961 of file bs_citations.bib
- : @article{madhupratap1996lack
- :                             ,
-I'm skipping whatever remains of this entry
-Warning--can't use both volume and number fields in banse1968hydrography
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty booktitle in desousa1996seasonal
+Warning--empty pages in desousa1996seasonal
 Warning--empty journal in madhupratap1992zooplankton
 Warning--empty journal in nair1999arabian
 Warning--empty journal in prasad1996mixed
 Warning--empty journal in qasim1977biological
 Warning--empty journal in shetye1990hydrography
-Warning--can't use both volume and number fields in subrahmanyan1959studiespart2
-You've used 96 entries,
-            2773 wiz_defined-function locations,
-            1164 strings with 27753 characters,
-and the built_in function-call counts, 56651 in all, are:
-= -- 4875
-> -- 4378
-< -- 38
-+ -- 1468
-- -- 1371
-* -- 5271
-:= -- 8892
-add.period$ -- 301
-call.type$ -- 96
-change.case$ -- 740
-chr.to.int$ -- 95
-cite$ -- 200
-duplicate$ -- 2050
-empty$ -- 3866
-format.name$ -- 1507
-if$ -- 11525
+You've used 99 entries,
+            2990 wiz_defined-function locations,
+            1302 strings with 32325 characters,
+and the built_in function-call counts, 78998 in all, are:
+= -- 5868
+> -- 3966
+< -- 35
++ -- 1535
+- -- 1413
+* -- 9484
+:= -- 11483
+add.period$ -- 378
+call.type$ -- 99
+change.case$ -- 967
+chr.to.int$ -- 98
+cite$ -- 106
+duplicate$ -- 5375
+empty$ -- 5166
+format.name$ -- 1736
+if$ -- 14366
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 96
-newline$ -- 497
-num.names$ -- 384
-pop$ -- 1337
+missing$ -- 1148
+newline$ -- 591
+num.names$ -- 396
+pop$ -- 1793
 preamble$ -- 1
-purify$ -- 644
+purify$ -- 867
 quote$ -- 0
-skip$ -- 1719
+skip$ -- 1455
 stack$ -- 0
-substring$ -- 2341
-swap$ -- 161
-text.length$ -- 9
+substring$ -- 3324
+swap$ -- 4406
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1056
-warning$ -- 8
-while$ -- 454
+type$ -- 891
+warning$ -- 7
+while$ -- 467
 width$ -- 0
-write$ -- 1268
-(There were 3 error messages)
+write$ -- 1570
+(There were 2 error messages)
