@@ -271,3 +271,4 @@ writings/cover_letter_pio/*
 writings/older/*
 writings/**
 !writings/**/*.tex
+figures/*
