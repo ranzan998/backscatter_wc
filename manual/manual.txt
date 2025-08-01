@@ -1,0 +1,15 @@
+Step 1: Process using the C code.
+                1.1 obtain nc files, use manual check to obtain the Er values
+                1.2 Use Depth Correction.
+                1.3 Use cutbins, and actually cut the data from the first data point below surface. bin to be cut * 4 is to be taken as input in cutbins.sh file
+Step 2: Create AST daily data from 2012 (start) to end (2025)
+                2.1 create ast daily for a given location, entire record.
+                2.2 create ast daily for a given year.
+                2.3 Regrid the above file to have the same time and depth axis corresponding to the actual DCnw1.nc file,
+Step 3: Run the backscatter mullison c code and obtain the bs.
+Step 4: Check for bad values, specially at surface and ends of the record
+                4.1 Delete the end records,
+                4.2 If the upper ocean data is bad, replace the top data with adjacent bottom data of backscatter.
+                
+                
+                

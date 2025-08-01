@@ -262,6 +262,9 @@ dmypy.json
 
 .nc
 
-manuscript_bs/
-pio/
-elsearticle/
+manuscript_bs/*
+pio/*
+writings/cover_letter_pio/*
+writings/older/*
+sahu_etal_25_07_16/*
+!sahu_etal_25_07_16/*.tex
