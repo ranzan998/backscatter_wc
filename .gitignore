@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 *.nc*
 *swp*
+*.pdf*
+*.jpeg*
+*.png*
 *~*
 
 # C extensions
@@ -266,5 +269,5 @@ manuscript_bs/*
 pio/*
 writings/cover_letter_pio/*
 writings/older/*
-sahu_etal_25_07_16/*
-!sahu_etal_25_07_16/*.tex
+writings/**
+!writings/**/*.tex
