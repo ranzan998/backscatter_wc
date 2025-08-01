@@ -263,3 +263,5 @@ dmypy.json
 .nc
 
 manuscript_bs/
+pio/
+elsearticle/

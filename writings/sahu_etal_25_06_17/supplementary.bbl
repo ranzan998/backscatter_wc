@@ -1,0 +1,103 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Amol et~al.(2014)Amol, Shankar, Fernando, Mukherjee, Aparna,
+  Fernandes, Michael, Khalap, Satelkar, Agarvadekar, Gaonkar, Tari, Kankonkar,
+  and Vernekar]{amol2014observed}
+P.~Amol, D.~Shankar, V.~Fernando, A.~Mukherjee, S.~G. Aparna, R.~Fernandes,
+  G.~S. Michael, S.~T. Khalap, N.~P. Satelkar, Y.~Agarvadekar, M.~G. Gaonkar,
+  A.~P. Tari, A.~Kankonkar, and S.P. Vernekar.
+\newblock Observed intraseasonal and seasonal variability of the {West India
+  Coastal Current} on the continental slope.
+\newblock \emph{J. Earth Syst. Sci.}, 123\penalty0 (5):\penalty0 1045--1074,
+  2014.
+\newblock \url{10.1007/s12040-014-0449-5}.
+
+\bibitem[Aparna et~al.(2022)Aparna, Desai, Shankar, Anil, Dora, and
+  Khedekar]{aparna2022seasonal}
+S.~G. Aparna, D.~V Desai, D~Shankar, A.~C Anil, Shrikant Dora, and R.~R.
+  Khedekar.
+\newblock Seasonal cycle of zooplankton standing stock inferred from {ADCP}
+  backscatter measurements in the eastern {Arabian Sea}.
+\newblock \emph{Prog. Oceanogr.}, 203:\penalty0 102766, 2022.
+\newblock \url{10.1016/j.pocean.2022.102766}.
+
+\bibitem[Chaudhuri et~al.(2020)Chaudhuri, Shankar, Aparna, Amol, Fernando,
+  Kankonkar, Michael, Satelkar, Khalap, Tari, Gaonkar, Ghatkar, and
+  Khedekar]{chaudhuri2020observed}
+Anya Chaudhuri, D.~Shankar, S.~G. Aparna, P.~Amol, V.~Fernando, A.~Kankonkar,
+  G.~S. Michael, N.~P. Satelkar, S.~T. Khalap, A.~P. Tari, M.~G. Gaonkar,
+  S.~Ghatkar, and R.~R. Khedekar.
+\newblock Observed variability of the {West India Coastal Current} on the
+  continental slope from 2009--2018.
+\newblock \emph{J. Earth Syst. Sci.}, 129\penalty0 (1):\penalty0 57, 2020.
+\newblock \url{10.1007/s12040-019-1322-3}.
+
+\bibitem[Chaudhuri et~al.(2021)Chaudhuri, Amol, Shankar, Mukhopadhyay, Aparna,
+  Fernando, and Kankonkar]{chaudhuri2021observed}
+Anya Chaudhuri, P~Amol, D~Shankar, S~Mukhopadhyay, S.~G Aparna, V~Fernando, and
+  A~Kankonkar.
+\newblock Observed variability of the {West India Coastal Current} on the
+  continental shelf from 2010--2017.
+\newblock \emph{J. Earth Syst. Sci.}, 130:\penalty0 1--21, 2021.
+\newblock \doi{10.1007/s12040-021-01603-4}.
+
+\bibitem[Duchon(1979)]{duchon1979lanczos}
+Claude~E Duchon.
+\newblock Lanczos filtering in one and two dimensions.
+\newblock \emph{J. Appl. Meteorol. Climatol.}, 18\penalty0 (8):\penalty0
+  1016--1022, 1979.
+\newblock \url{10.1175/1520-0450(1979)018<1016:LFIOAT>2.0.CO;2}.
+
+\bibitem[Jensen(1993)]{jensen1993equatorial}
+Tommy~G Jensen.
+\newblock {E}quatorial variability and resonance in a wind-driven {I}ndian
+  {O}cean model.
+\newblock \emph{J. Geophys. Res. Oceans}, 98\penalty0 (C12):\penalty0
+  22533--22552, 1993.
+\newblock \url{10.1029/93JC02565}.
+
+\bibitem[Jyothibabu et~al.(2010)Jyothibabu, Madhu, Habeebrehman, Jayalakshmy,
+  Nair, and Achuthankutty]{jyothibabu2010re}
+R~Jyothibabu, N.~V Madhu, H~Habeebrehman, K.~V Jayalakshmy, K.~K.~C Nair, and
+  C.~T Achuthankutty.
+\newblock Re-evaluation of ‘paradox of mesozooplankton’in the eastern
+  {Arabian Sea} based on ship and satellite observations.
+\newblock \emph{J. Mar. Syst.}, 81\penalty0 (3):\penalty0 235--251, 2010.
+\newblock \doi{10.1016/j.jmarsys.2009.12.019}.
+
+\bibitem[Madhupratap et~al.(1996)Madhupratap, Gopalakrishnan, Haridas, Nair,
+  Aravindakshan, Padmavati, and Paul]{madhupratap1996lack}
+M~Madhupratap, T.~C Gopalakrishnan, P~Haridas, K.~K.~C Nair, P.~N
+  Aravindakshan, G~Padmavati, and Shiney Paul.
+\newblock Lack of seasonal and geographic variation in mesozooplankton biomass
+  in the {Arabian Sea} and its structure in the mixed layer.
+\newblock \emph{Curr. Sci.}, 71\penalty0 (11):\penalty0 863--868, 1996.
+\newblock URL \url{drs.nio.org/drs/handle/2264/2154}.
+
+\bibitem[Maraun and Kurths(2004)]{maraun2004cross}
+Douglas Maraun and J{\"u}rgen Kurths.
+\newblock Cross wavelet analysis: significance testing and pitfalls.
+\newblock \emph{Nonlin. Processes Geophys.}, 11\penalty0 (4):\penalty0
+  505--514, 2004.
+\newblock \url{10.5194/npg-11-505-2004}.
+
+\bibitem[Schott and McCreary(2001)]{schott20011}
+Friedrich~A. Schott and Julian~P. McCreary.
+\newblock The monsoon circulation of the {Indian Ocean}.
+\newblock \emph{Prog. Oceanogr.}, 51\penalty0 (1):\penalty0 1--123, 2001.
+\newblock ISSN 0079-6611.
+\newblock \url{10.1016/S0079-6611(01)00083-0}.
+
+\bibitem[Torrence and Compo(1998)]{torrence1998practical}
+Christopher Torrence and Gilbert~P Compo.
+\newblock A practical guide to wavelet analysis.
+\newblock \emph{Bull. Am. Meteorol. Soc.}, 79\penalty0 (1):\penalty0 61--78,
+  1998.
+\newblock \url{10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2}.
+
+\end{thebibliography}

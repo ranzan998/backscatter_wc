@@ -1,0 +1,1061 @@
+\begin{thebibliography}{96}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{}
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Alm{\'e}n and Tamelander(2020)}]{almen2020temperature}
+\bibinfo{author}{Alm{\'e}n, A.K.}, \bibinfo{author}{Tamelander, T.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Temperature-related timing of the spring bloom and
+  match between phytoplankton and zooplankton}.
+\newblock \bibinfo{journal}{Mar. Biol. Res.} \bibinfo{volume}{16},
+  \bibinfo{pages}{674--682}.
+\newblock \DOIprefix\doi{10.1080/17451000.2020.1846201}.
+%Type = Article
+\bibitem[{Amol et~al.(2020)Amol, Bemal, Shankar, Jain, Thushara, Vijith and
+  Vinayachandran}]{amol2020modulation}
+\bibinfo{author}{Amol, P.}, \bibinfo{author}{Bemal, S.},
+  \bibinfo{author}{Shankar, D.}, \bibinfo{author}{Jain, V.},
+  \bibinfo{author}{Thushara, V.}, \bibinfo{author}{Vijith, V.},
+  \bibinfo{author}{Vinayachandran, P.N.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Modulation of chlorophyll concentration by
+  downwelling {R}ossby waves during the winter monsoon in the southeastern
+  {Arabian Sea}}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{186},
+  \bibinfo{pages}{102365}.
+\newblock \DOIprefix\doi{10.1016/j.pocean.2020.102365}.
+%Type = Article
+\bibitem[{Amol et~al.(2014)Amol, Shankar, Fernando, Mukherjee, Aparna,
+  Fernandes, Michael, Khalap, Satelkar, Agarvadekar, Gaonkar, Tari, Kankonkar
+  and Vernekar}]{amol2014observed}
+\bibinfo{author}{Amol, P.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Fernando, V.}, \bibinfo{author}{Mukherjee, A.},
+  \bibinfo{author}{Aparna, S.G.}, \bibinfo{author}{Fernandes, R.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Khalap, S.T.},
+  \bibinfo{author}{Satelkar, N.P.}, \bibinfo{author}{Agarvadekar, Y.},
+  \bibinfo{author}{Gaonkar, M.G.}, \bibinfo{author}{Tari, A.P.},
+  \bibinfo{author}{Kankonkar, A.}, \bibinfo{author}{Vernekar, S.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Observed intraseasonal and seasonal variability of
+  the {West India Coastal Current} on the continental slope}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{123},
+  \bibinfo{pages}{1045--1074}.
+\newblock \bibinfo{note}{\url{10.1007/s12040-014-0449-5}}.
+%Type = Article
+\bibitem[{Aparna et~al.(2022)Aparna, Desai, Shankar, Anil, Dora and
+  Khedekar}]{aparna2022seasonal}
+\bibinfo{author}{Aparna, S.G.}, \bibinfo{author}{Desai, D.V.},
+  \bibinfo{author}{Shankar, D.}, \bibinfo{author}{Anil, A.C.},
+  \bibinfo{author}{Dora, S.}, \bibinfo{author}{Khedekar, R.R.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Seasonal cycle of zooplankton standing stock inferred
+  from {ADCP} backscatter measurements in the eastern {Arabian Sea}}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{203},
+  \bibinfo{pages}{102766}.
+\newblock \bibinfo{note}{\url{10.1016/j.pocean.2022.102766}}.
+%Type = Article
+\bibitem[{Azam et~al.(1983)Azam, Fenchel, Field, Gray, Meyer-Reil and
+  Thingstad}]{azam1983microbial}
+\bibinfo{author}{Azam, F.}, \bibinfo{author}{Fenchel, T.},
+  \bibinfo{author}{Field, J.G.}, \bibinfo{author}{Gray, J.S.},
+  \bibinfo{author}{Meyer-Reil, L.A.}, \bibinfo{author}{Thingstad, F.},
+  \bibinfo{year}{1983}.
+\newblock \bibinfo{title}{The ecological role of water-column microbes in the
+  sea}.
+\newblock \bibinfo{journal}{Estuaries} \bibinfo{volume}{10},
+  \bibinfo{pages}{257--263}.
+\newblock \DOIprefix\doi{10.3354/meps010257}.
+%Type = Inproceedings
+\bibitem[{Banse(1968)}]{banse1968hydrography}
+\bibinfo{author}{Banse, K.}, \bibinfo{year}{1968}.
+\newblock \bibinfo{title}{Hydrography of the {Arabian Sea} shelf of {I}ndia and
+  {P}akistan and effects on demersal fishes}, in: \bibinfo{booktitle}{Deep-Sea
+  Res. Oceanogr. Abstr.}, \bibinfo{organization}{Elsevier}. pp.
+  \bibinfo{pages}{45--79}.
+\newblock \DOIprefix\doi{10.1016/0011-7471(68)90028-4}.
+%Type = Article
+\bibitem[{Banse(1995)}]{banse1995zooplankton}
+\bibinfo{author}{Banse, K.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{Zooplankton: pivotal role in the control of ocean
+  production: {I. B}iomass and production}.
+\newblock \bibinfo{journal}{ICES J. Mar. Sci.} \bibinfo{volume}{52},
+  \bibinfo{pages}{265--277}.
+\newblock \DOIprefix\doi{10.1016/1054-3139(95)80043-3}.
+%Type = Article
+\bibitem[{Banse and English(2000)}]{banse2000geographical}
+\bibinfo{author}{Banse, K.}, \bibinfo{author}{English, D.C.},
+  \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Geographical differences in seasonality of
+  {CZCS}-derived phytoplankton pigment in the {Arabian Sea} for 1978--1986}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part II Top. Stud. Oceanogr.}
+  \bibinfo{volume}{47}, \bibinfo{pages}{1623--1677}.
+\newblock \DOIprefix\doi{10.1016/S0967-0645(99)00157-5}.
+%Type = Article
+\bibitem[{Banse and Postel(2009)}]{banse2009wintertime}
+\bibinfo{author}{Banse, K.}, \bibinfo{author}{Postel, J.R.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{W}intertime convection and ventilation of the upper
+  pycnocline in the northernmost {A}rabian {S}ea}.
+\newblock \bibinfo{journal}{Geophysical Monograph Series}
+  \bibinfo{volume}{185}, \bibinfo{pages}{87--117}.
+\newblock \bibinfo{note}{\url{10.1029/2008GM000704}}.
+%Type = Article
+\bibitem[{Barber et~al.(2001)Barber, Marra, Bidigare, Codispoti, Halpern,
+  Johnson, Latasa, Goericke and Smith}]{barber2001qn}
+\bibinfo{author}{Barber, R.T.}, \bibinfo{author}{Marra, J.},
+  \bibinfo{author}{Bidigare, R.C.}, \bibinfo{author}{Codispoti, L.A.},
+  \bibinfo{author}{Halpern, D.}, \bibinfo{author}{Johnson, Z.},
+  \bibinfo{author}{Latasa, M.}, \bibinfo{author}{Goericke, R.},
+  \bibinfo{author}{Smith, S.L.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Primary productivity and its regulation in the
+  {Arabian Sea} during 1995}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part 2 Top. Stud. Oceanogr.}
+  \bibinfo{volume}{48}, \bibinfo{pages}{1127--1172}.
+\newblock \DOIprefix\doi{10.1016/S0967-0645(00)00134-X}.
+%Type = Article
+\bibitem[{Batchelder et~al.(1995)Batchelder, VanKeuren, Vaillancourt and
+  Swift}]{batchelder00981}
+\bibinfo{author}{Batchelder, H.P.}, \bibinfo{author}{VanKeuren, J.R.},
+  \bibinfo{author}{Vaillancourt, R.D.}, \bibinfo{author}{Swift, E.},
+  \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{Spatial and temporal distributions of acoustically
+  estimated zooplankton biomass near the marine light‐mixed layers station
+  (59$^\circ$30$^\prime${N}, 21$^\circ$00$^\prime${W}) in the north {A}tlantic
+  in {M}ay 1991}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{100},
+  \bibinfo{pages}{6549--6563}.
+\newblock \DOIprefix\doi{10.1029/94jc00981}.
+%Type = Article
+\bibitem[{Bemal et~al.(2018)Bemal, Anil, Shankar, Remya and
+  Roy}]{bemal2018picophytoplankton}
+\bibinfo{author}{Bemal, S.}, \bibinfo{author}{Anil, A.C.},
+  \bibinfo{author}{Shankar, D.}, \bibinfo{author}{Remya, R.},
+  \bibinfo{author}{Roy, R.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Picophytoplankton variability: Influence of winter
+  convective mixing and advection in the northeastern {Arabian Sea}}.
+\newblock \bibinfo{journal}{J. Mar. Syst.} \bibinfo{volume}{180},
+  \bibinfo{pages}{37--48}.
+\newblock \DOIprefix\doi{10.1029/2001GL013422}.
+%Type = Article
+\bibitem[{Bhalme et~al.(1987)Bhalme, Rahalkar and Sikder}]{bhalme1987tropical}
+\bibinfo{author}{Bhalme, H.N.}, \bibinfo{author}{Rahalkar, S.S.},
+  \bibinfo{author}{Sikder, A.B.}, \bibinfo{year}{1987}.
+\newblock \bibinfo{title}{Tropical quasi-biennial oscillation of the 10-mb wind
+  and {I}ndian monsoon rainfall --- implications for forecasting}.
+\newblock \bibinfo{journal}{J. Climatol.} \bibinfo{volume}{7},
+  \bibinfo{pages}{345--353}.
+\newblock \DOIprefix\doi{10.1002/joc.3370070403}.
+%Type = Article
+\bibitem[{Brock and McClain(1992)}]{brock1992interannual}
+\bibinfo{author}{Brock, J.C.}, \bibinfo{author}{McClain, C.R.},
+  \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{Interannual variability in phytoplankton blooms
+  observed in the northwestern {Arabian Sea} during the southwest monsoon}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{97},
+  \bibinfo{pages}{733--750}.
+\newblock \DOIprefix\doi{10.1029/91JC02225}.
+%Type = Article
+\bibitem[{Brock et~al.(1991)Brock, McClain, Luther and
+  Hay}]{brock1991phytoplankton}
+\bibinfo{author}{Brock, J.C.}, \bibinfo{author}{McClain, C.R.},
+  \bibinfo{author}{Luther, M.E.}, \bibinfo{author}{Hay, W.W.},
+  \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{The phytoplankton bloom in the northwestern {Arabian
+  Sea} during the southwest monsoon of 1979}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{96},
+  \bibinfo{pages}{20623--20642}.
+\newblock \DOIprefix\doi{10.1029/91JC01711}.
+%Type = Article
+\bibitem[{Chatterjee et~al.(2012)Chatterjee, Shankar, Shenoi, Reddy, Michael,
+  Ravichandran, Gopalkrishna, RamaRao, UdayaBhaskar and
+  Sanjeevan}]{chatterjee2012new}
+\bibinfo{author}{Chatterjee, A.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Shenoi, S.S.C.}, \bibinfo{author}{Reddy, G.V.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Ravichandran, M.},
+  \bibinfo{author}{Gopalkrishna, V.V.}, \bibinfo{author}{RamaRao, E.P.},
+  \bibinfo{author}{UdayaBhaskar, T.V.S.}, \bibinfo{author}{Sanjeevan, V.N.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{A new atlas of temperature and salinity for the
+  {North Indian Ocean}}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{121},
+  \bibinfo{pages}{559--593}.
+\newblock \DOIprefix\doi{10.1007/s12040-012-0191-9}.
+%Type = Article
+\bibitem[{Chaudhuri et~al.(2020)Chaudhuri, Shankar, Aparna, Amol, Fernando,
+  Kankonkar, Michael, Satelkar, Khalap, Tari, Gaonkar, Ghatkar and
+  Khedekar}]{chaudhuri2020observed}
+\bibinfo{author}{Chaudhuri, A.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Aparna, S.G.}, \bibinfo{author}{Amol, P.},
+  \bibinfo{author}{Fernando, V.}, \bibinfo{author}{Kankonkar, A.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Satelkar, N.P.},
+  \bibinfo{author}{Khalap, S.T.}, \bibinfo{author}{Tari, A.P.},
+  \bibinfo{author}{Gaonkar, M.G.}, \bibinfo{author}{Ghatkar, S.},
+  \bibinfo{author}{Khedekar, R.R.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Observed variability of the {West India Coastal
+  Current} on the continental slope from 2009--2018}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{129},
+  \bibinfo{pages}{57}.
+\newblock \bibinfo{note}{\url{10.1007/s12040-019-1322-3}}.
+%Type = Article
+\bibitem[{Cisewski et~al.(2010)Cisewski, Strass, Rhein and
+  Kr{\"a}gefsky}]{cisewski2010seasonal}
+\bibinfo{author}{Cisewski, B.}, \bibinfo{author}{Strass, V.H.},
+  \bibinfo{author}{Rhein, M.}, \bibinfo{author}{Kr{\"a}gefsky, S.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Seasonal variation of diel vertical migration of
+  zooplankton from {ADCP} backscatter time series data in the {Lazarev Sea},
+  {A}ntarctica}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part I Oceanogr. Res. Pap.}
+  \bibinfo{volume}{57}, \bibinfo{pages}{78--94}.
+\newblock \DOIprefix\doi{10.1016/j.dsr.2009.10.005}.
+%Type = Article
+\bibitem[{Davis et~al.(2019)Davis, Talley, Roemmich, Owens, Rudnick, Toole,
+  Weller, McPhaden and Barth}]{davis2019100}
+\bibinfo{author}{Davis, R.E.}, \bibinfo{author}{Talley, L.D.},
+  \bibinfo{author}{Roemmich, D.}, \bibinfo{author}{Owens, W.B.},
+  \bibinfo{author}{Rudnick, D.L.}, \bibinfo{author}{Toole, J.},
+  \bibinfo{author}{Weller, R.}, \bibinfo{author}{McPhaden, M.J.},
+  \bibinfo{author}{Barth, J.A.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{100 years of progress in ocean observing systems}.
+\newblock \bibinfo{journal}{Meteorol. Monogr.} \bibinfo{volume}{59},
+  \bibinfo{pages}{3--1}.
+\newblock \DOIprefix\doi{10.1175/AMSMONOGRAPHS-D-18-0014.1}.
+%Type = Inproceedings
+\bibitem[{Deines(1999)}]{deines1999backscatter}
+\bibinfo{author}{Deines, K.L.}, \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{Backscatter estimation using broadband acoustic
+  {D}oppler current profilers}, in: \bibinfo{booktitle}{Proceedings of the IEEE
+  Sixth Working Conference on Current Measurement (Cat. No. 99CH36331)},
+  \bibinfo{organization}{IEEE}. pp. \bibinfo{pages}{249--253}.
+\newblock \DOIprefix\doi{10.1109/CCM.1999.755249}.
+%Type = Article
+\bibitem[{DeSousa et~al.(1996)DeSousa, Dileepkumar, Sardessai, Sarma and
+  Shirodkar}]{desousa1996seasonal}
+\bibinfo{author}{DeSousa, S.N.}, \bibinfo{author}{Dileepkumar, M.},
+  \bibinfo{author}{Sardessai, S.}, \bibinfo{author}{Sarma, V.V.S.S.},
+  \bibinfo{author}{Shirodkar, P.V.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{Seasonal variability in oxygen and nutrients in the
+  central and eastern {Arabian Sea}}.
+\newblock \bibinfo{journal}{Curr. Sci.} \bibinfo{volume}{71}.
+\newblock \URLprefix \url{drs.nio.org/drs/handle/2264/35}.
+%Type = Article
+\bibitem[{Edvardsen et~al.(2003)Edvardsen, Slagstad, Tande and
+  Jaccard}]{edvardsen2003assessing}
+\bibinfo{author}{Edvardsen, A.}, \bibinfo{author}{Slagstad, D.},
+  \bibinfo{author}{Tande, K.S.}, \bibinfo{author}{Jaccard, P.},
+  \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{Assessing zooplankton advection in the {Barents Sea}
+  using underway measurements and modelling}.
+\newblock \bibinfo{journal}{Fish. Oceanogr.} \bibinfo{volume}{12},
+  \bibinfo{pages}{61--74}.
+\newblock \DOIprefix\doi{10.1046/j.1365-2419.2003.00219.x}.
+%Type = Article
+\bibitem[{Flagg and Smith(1989)}]{flagg1989use}
+\bibinfo{author}{Flagg, C.N.}, \bibinfo{author}{Smith, S.L.},
+  \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{On the use of the acoustic {D}oppler current profiler
+  to measure zooplankton abundance}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part A. Oceanogr. Res. Pap.}
+  \bibinfo{volume}{36}, \bibinfo{pages}{455--474}.
+\newblock \DOIprefix\doi{10.1016/0198-0149(89)90047-2}.
+%Type = Article
+\bibitem[{García et~al.(2014)García, Locarnini, Boyer, Antonov, Mishonov,
+  Baranova, Zweng, Reagan and Johnson}]{garcia2013oxygen}
+\bibinfo{author}{García, H.E.}, \bibinfo{author}{Locarnini, R.A.},
+  \bibinfo{author}{Boyer, T.P.}, \bibinfo{author}{Antonov, J.I.},
+  \bibinfo{author}{Mishonov, A.V.}, \bibinfo{author}{Baranova, O.K.},
+  \bibinfo{author}{Zweng, M.M.}, \bibinfo{author}{Reagan, J.R.},
+  \bibinfo{author}{Johnson, D.R.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Dissolved oxygen, apparent oxygen utilization, and
+  oxygen saturation}.
+\newblock \bibinfo{journal}{NOAA Atlas NESDIS 75} \bibinfo{volume}{3}.
+\newblock \URLprefix \url{data.nodc.noaa.gov/woa/WOA18/DOC/woa18_vol3.pdf}.
+%Type = Article
+\bibitem[{Greene et~al.(1998)Greene, Wiebe, Pelkie, Benfield and
+  Popp}]{greene1998three}
+\bibinfo{author}{Greene, C.H.}, \bibinfo{author}{Wiebe, P.H.},
+  \bibinfo{author}{Pelkie, C.}, \bibinfo{author}{Benfield, M.C.},
+  \bibinfo{author}{Popp, J.M.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{Three-dimensional acoustic visualization of
+  zooplankton patchiness}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part II Top. Stud. Oceanogr.}
+  \bibinfo{volume}{45}, \bibinfo{pages}{1201--1217}.
+\newblock \DOIprefix\doi{10.1016/S0967-0645(98)00034-4}.
+%Type = Article
+\bibitem[{Greenlaw(1979)}]{greenlaw1979acoustical}
+\bibinfo{author}{Greenlaw, C.F.}, \bibinfo{year}{1979}.
+\newblock \bibinfo{title}{Acoustical estimation of zooplankton populations 1}.
+\newblock \bibinfo{journal}{Limnol. Oceanogr.} \bibinfo{volume}{24},
+  \bibinfo{pages}{226--242}.
+\newblock \DOIprefix\doi{10.4319/lo.1979.24.2.0226}.
+%Type = Article
+\bibitem[{Guerra et~al.(2019)Guerra, Schroeder, Borghini, Camatti, Pansera,
+  Schroeder, Sparnocchia and Chiggiato}]{guerra2019zooplankton}
+\bibinfo{author}{Guerra, D.}, \bibinfo{author}{Schroeder, K.},
+  \bibinfo{author}{Borghini, M.}, \bibinfo{author}{Camatti, E.},
+  \bibinfo{author}{Pansera, M.}, \bibinfo{author}{Schroeder, A.},
+  \bibinfo{author}{Sparnocchia, S.}, \bibinfo{author}{Chiggiato, J.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Zooplankton diel vertical migration in the {C}orsica
+  channel (north-western {Mediterranean Sea}) detected by a moored acoustic
+  {D}oppler current profiler}.
+\newblock \bibinfo{journal}{Ocean Sci.} \bibinfo{volume}{15},
+  \bibinfo{pages}{631--649}.
+\newblock \DOIprefix\doi{10.5194/os-15-631-2019}.
+%Type = Article
+\bibitem[{Hamilton et~al.(2013)Hamilton, Collins and
+  Prinsenberg}]{hamilton2013links}
+\bibinfo{author}{Hamilton, J.M.}, \bibinfo{author}{Collins, K.},
+  \bibinfo{author}{Prinsenberg, S.J.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Links between ocean properties, ice cover, and
+  plankton dynamics on interannual time scales in the {C}anadian {A}rctic
+  {A}rchipelago}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{118},
+  \bibinfo{pages}{5625--5639}.
+\newblock \DOIprefix\doi{10.1002/jgrc.20382}.
+%Type = Inproceedings
+\bibitem[{Hays(2003)}]{hays2003review}
+\bibinfo{author}{Hays, G.C.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{A review of the adaptive significance and ecosystem
+  consequences of zooplankton diel vertical migrations}, in:
+  \bibinfo{booktitle}{Migrations and Dispersal of Marine Organisms: Proceedings
+  of the 37th {E}uropean {M}arine {B}iology {S}ymposium held in
+  {R}eykjav{\'\i}k, {I}celand, 5--9 August 2002},
+  \bibinfo{organization}{Springer}. pp. \bibinfo{pages}{163--170}.
+\newblock \DOIprefix\doi{10.1007/978-94-017-2276-6_18}.
+%Type = Article
+\bibitem[{Heywood et~al.(1991)Heywood, Howe and Barton}]{heywood1991estimation}
+\bibinfo{author}{Heywood, K.J.}, \bibinfo{author}{Howe, S.S.},
+  \bibinfo{author}{Barton, E.D.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{Estimation of zooplankton abundance from shipborne
+  {ADCP} backscatter}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part A. Oceanogr. Res. Pap.}
+  \bibinfo{volume}{38}, \bibinfo{pages}{677--691}.
+\newblock \DOIprefix\doi{10.1016/0198-0149(91)90006-2}.
+%Type = Article
+\bibitem[{Hitchcock et~al.(2002)Hitchcock, Lane, Smith, Luo and
+  Ortner}]{hitchcock2002zooplankton}
+\bibinfo{author}{Hitchcock, G.L.}, \bibinfo{author}{Lane, P.},
+  \bibinfo{author}{Smith, S.}, \bibinfo{author}{Luo, J.},
+  \bibinfo{author}{Ortner, P.B.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Zooplankton spatial distributions in coastal waters
+  of the northern {Arabian Sea}, {A}ugust, 1995}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part II Top. Stud. Oceanogr.}
+  \bibinfo{volume}{49}, \bibinfo{pages}{2403--2423}.
+\newblock \DOIprefix\doi{10.1016/S0967-0645(02)00042-5}.
+%Type = Article
+\bibitem[{Hobbs et~al.(2021)Hobbs, Banas, Cohen, Cottier, Berge and
+  Varpe}]{hobbs2021marine}
+\bibinfo{author}{Hobbs, L.}, \bibinfo{author}{Banas, N.S.},
+  \bibinfo{author}{Cohen, J.H.}, \bibinfo{author}{Cottier, F.R.},
+  \bibinfo{author}{Berge, J.}, \bibinfo{author}{Varpe, {\O}.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{A marine zooplankton community vertically structured
+  by light across diel to interannual timescales}.
+\newblock \bibinfo{journal}{Biol. Lett.} \bibinfo{volume}{17},
+  \bibinfo{pages}{20200810}.
+\newblock \DOIprefix\doi{10.1098/rsbl.2020.0810}.
+%Type = Article
+\bibitem[{Hood et~al.(2017)Hood, Beckley and Wiggert}]{hood2017biogeochemical}
+\bibinfo{author}{Hood, R.R.}, \bibinfo{author}{Beckley, L.E.},
+  \bibinfo{author}{Wiggert, J.D.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Biogeochemical and ecological impacts of boundary
+  currents in the {Indian Ocean}}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{156},
+  \bibinfo{pages}{290--325}.
+\newblock \DOIprefix\doi{10.1016/j.pocean.2017.04.011}.
+%Type = Article
+\bibitem[{Inoue et~al.(2016)Inoue, Kitamura and Fujiki}]{inoue2016diel}
+\bibinfo{author}{Inoue, R.}, \bibinfo{author}{Kitamura, M.},
+  \bibinfo{author}{Fujiki, T.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Diel vertical migration of zooplankton at the {S1}
+  biogeochemical mooring revealed from acoustic backscattering strength}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{121},
+  \bibinfo{pages}{1031--1050}.
+\newblock \DOIprefix\doi{10.1002/2015JC011352}.
+%Type = Article
+\bibitem[{Jadhav and Smitha(2024)}]{jadhav2024abundance}
+\bibinfo{author}{Jadhav, S.J.}, \bibinfo{author}{Smitha, B.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Abundance distribution pattern of zooplankton
+  associated with the eastern {Arabian Sea} monsoon system as detected by
+  underwater acoustics and net sampling}.
+\newblock \bibinfo{journal}{Acoust. Aust.} ,
+  \bibinfo{pages}{1--22}\DOIprefix\doi{10.1007/s40857-024-00336-w}.
+%Type = Article
+\bibitem[{Jiang et~al.(2007)Jiang, Dickey, Steinberg and
+  Madin}]{jiang2007temporal}
+\bibinfo{author}{Jiang, S.}, \bibinfo{author}{Dickey, T.D.},
+  \bibinfo{author}{Steinberg, D.K.}, \bibinfo{author}{Madin, L.P.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Temporal variability of zooplankton biomass from
+  {ADCP} backscatter time series data at the {Bermuda Testbed Mooring} site}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part I Oceanogr. Res. Pap.}
+  \bibinfo{volume}{54}, \bibinfo{pages}{608--636}.
+\newblock \DOIprefix\doi{10.1016/j.dsr.2006.12.011}.
+%Type = Article
+\bibitem[{Jyothibabu et~al.(2010)Jyothibabu, Madhu, Habeebrehman, Jayalakshmy,
+  Nair and Achuthankutty}]{jyothibabu2010re}
+\bibinfo{author}{Jyothibabu, R.}, \bibinfo{author}{Madhu, N.V.},
+  \bibinfo{author}{Habeebrehman, H.}, \bibinfo{author}{Jayalakshmy, K.V.},
+  \bibinfo{author}{Nair, K.K.C.}, \bibinfo{author}{Achuthankutty, C.T.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Re-evaluation of ‘paradox of mesozooplankton’in
+  the eastern {Arabian Sea} based on ship and satellite observations}.
+\newblock \bibinfo{journal}{J. Mar. Syst.} \bibinfo{volume}{81},
+  \bibinfo{pages}{235--251}.
+\newblock \DOIprefix\doi{10.1016/j.jmarsys.2009.12.019}.
+%Type = Article
+\bibitem[{Kang et~al.(2024)Kang, Oh, Oh, Kang, Nam and Lee}]{kang2024acoustic}
+\bibinfo{author}{Kang, M.}, \bibinfo{author}{Oh, S.}, \bibinfo{author}{Oh, W.},
+  \bibinfo{author}{Kang, D.J.}, \bibinfo{author}{Nam, S.},
+  \bibinfo{author}{Lee, K.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Acoustic characterization of fish and macroplankton
+  communities in the {Seychelles-Chagos Thermocline Ridge} of the southwest
+  {Indian Ocean}}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part II Top. Stud. Oceanogr.}
+  \bibinfo{volume}{213}, \bibinfo{pages}{105356}.
+\newblock \DOIprefix\doi{10.1016/j.dsr2.2023.105356}.
+%Type = Article
+\bibitem[{Keerthi et~al.(2017)Keerthi, Lengaigne, L{\'e}vy, Vialard, Parvathi,
+  de~Boyer~Mont{\'e}gut, Eth{\'e}, Aumont, Suresh, Akhil and
+  Muraleedharan}]{keerthi2017physical}
+\bibinfo{author}{Keerthi, M.G.}, \bibinfo{author}{Lengaigne, M.},
+  \bibinfo{author}{L{\'e}vy, M.}, \bibinfo{author}{Vialard, J.},
+  \bibinfo{author}{Parvathi, V.}, \bibinfo{author}{de~Boyer~Mont{\'e}gut, C.},
+  \bibinfo{author}{Eth{\'e}, C.}, \bibinfo{author}{Aumont, O.},
+  \bibinfo{author}{Suresh, I.}, \bibinfo{author}{Akhil, V.P.},
+  \bibinfo{author}{Muraleedharan, P.M.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Physical control of interannual variations of the
+  winter chlorophyll bloom in the northern {Arabian Sea}}.
+\newblock \bibinfo{journal}{Biogeosci.} \bibinfo{volume}{14},
+  \bibinfo{pages}{3615--3632}.
+\newblock \DOIprefix\doi{10.5194/bg-14-3615-2017}.
+%Type = Article
+\bibitem[{Khandagale et~al.(2022)Khandagale, Mhatre and
+  Thomas}]{khandagale2022seasonal}
+\bibinfo{author}{Khandagale, P.A.}, \bibinfo{author}{Mhatre, V.D.},
+  \bibinfo{author}{Thomas, S.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Seasonal and spatial variability of zooplankton
+  diversity in north eastern {Arabian Sea} along the {M}aharashtra coast}.
+\newblock \bibinfo{journal}{J. Mar. Biol. Assoc. India} \bibinfo{volume}{64},
+  \bibinfo{pages}{25--32}.
+\newblock \URLprefix \url{mbai.org.in/php/journaldload.php?id=2618&bkid=128}.
+%Type = Article
+\bibitem[{Kumar and Narvekar(2005)}]{prasannakumara20051848}
+\bibinfo{author}{Kumar, S.P.}, \bibinfo{author}{Narvekar, J.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Seasonal variability of the mixed layer in the
+  central {Arabian Sea} and its implication on nutrients and primary
+  productivity}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part II Top. Stud. Oceanogr.}
+  \bibinfo{volume}{52}, \bibinfo{pages}{1848--1861}.
+\newblock \DOIprefix\doi{10.1016/j.dsr2.2005.06.002}.
+  \bibinfo{note}{biogeochemical Processes in the Northern Indian Ocean}.
+%Type = Article
+\bibitem[{Lawson et~al.(2004)Lawson, Wiebe, Ashjian, Gallager, Davis and
+  Warren}]{lawson2004acoustically}
+\bibinfo{author}{Lawson, G.L.}, \bibinfo{author}{Wiebe, P.H.},
+  \bibinfo{author}{Ashjian, C.J.}, \bibinfo{author}{Gallager, S.M.},
+  \bibinfo{author}{Davis, C.S.}, \bibinfo{author}{Warren, J.D.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Acoustically-inferred zooplankton distribution in
+  relation to hydrography west of the {Antarctic Peninsula}}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part II Top. Stud. Oceanogr.}
+  \bibinfo{volume}{51}, \bibinfo{pages}{2041--2072}.
+\newblock \DOIprefix\doi{10.1016/j.dsr2.2004.07.022}.
+%Type = Article
+\bibitem[{L{\'e}vy et~al.(2007)L{\'e}vy, Shankar, Andr{\'e}, Shenoi, Durand and
+  de~Boyer~Mont{\'e}gut}]{levy2007basin}
+\bibinfo{author}{L{\'e}vy, M.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Andr{\'e}, J.M.}, \bibinfo{author}{Shenoi, S.S.C.},
+  \bibinfo{author}{Durand, F.}, \bibinfo{author}{de~Boyer~Mont{\'e}gut, C.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Basin-wide seasonal evolution of the {Indian Ocean's}
+  phytoplankton blooms}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{112}.
+\newblock \DOIprefix\doi{10.1029/2007JC004090}.
+%Type = Article
+\bibitem[{Li et~al.(2000)Li, Gargett and Denman}]{li2000determines}
+\bibinfo{author}{Li, M.}, \bibinfo{author}{Gargett, A.},
+  \bibinfo{author}{Denman, K.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{What determines seasonal and interannual variability
+  of phytoplankton and zooplankton in strongly estuarine systems?}
+\newblock \bibinfo{journal}{Estuar. Coast. Shelf Sci.} \bibinfo{volume}{50},
+  \bibinfo{pages}{467--488}.
+\newblock \DOIprefix\doi{10.1006/ecss.2000.0593}.
+%Type = Article
+\bibitem[{Liu et~al.(2022)Liu, Guo, Xue, Sangmanee, Wang, Zhao, Khokiattiwong
+  and Yu}]{liu2022seasonal}
+\bibinfo{author}{Liu, Y.}, \bibinfo{author}{Guo, J.}, \bibinfo{author}{Xue,
+  Y.}, \bibinfo{author}{Sangmanee, C.}, \bibinfo{author}{Wang, H.},
+  \bibinfo{author}{Zhao, C.}, \bibinfo{author}{Khokiattiwong, S.},
+  \bibinfo{author}{Yu, W.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Seasonal variation in diel vertical migration of
+  zooplankton and micronekton in the {Andaman Sea} observed by a moored
+  {ADCP}}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part I Oceanogr. Res. Pap.}
+  \bibinfo{volume}{179}, \bibinfo{pages}{103663}.
+\newblock \DOIprefix\doi{10.1016/j.dsr.2021.103663}.
+%Type = Article
+\bibitem[{Madhupratap et~al.(1996a)Madhupratap, Gopalakrishnan, Haridas, Nair,
+  Aravindakshan, Padmavati and Paul}]{madhupratap1996lack}
+\bibinfo{author}{Madhupratap, M.}, \bibinfo{author}{Gopalakrishnan, T.C.},
+  \bibinfo{author}{Haridas, P.}, \bibinfo{author}{Nair, K.K.C.},
+  \bibinfo{author}{Aravindakshan, P.N.}, \bibinfo{author}{Padmavati, G.},
+  \bibinfo{author}{Paul, S.}, \bibinfo{year}{1996}a.
+\newblock \bibinfo{title}{Lack of seasonal and geographic variation in
+  mesozooplankton biomass in the {Arabian Sea} and its structure in the mixed
+  layer}.
+\newblock \bibinfo{journal}{Curr. Sci.} \bibinfo{volume}{71},
+  \bibinfo{pages}{863--868}.
+\newblock \URLprefix \url{drs.nio.org/drs/handle/2264/2154}.
+%Type = Article
+\bibitem[{Madhupratap et~al.(1992)Madhupratap, Haridas, Ramaiah and
+  Achuthankutty}]{madhupratap1992zooplankton}
+\bibinfo{author}{Madhupratap, M.}, \bibinfo{author}{Haridas, P.},
+  \bibinfo{author}{Ramaiah, N.}, \bibinfo{author}{Achuthankutty, C.T.},
+  \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{Zooplankton of the southwest coast of {I}ndia:
+  abundance, composition, temporal and spatial variability in 1987}.
+\newblock \bibinfo{journal}{Oceanogr. Indian Ocean} .
+%Type = Article
+\bibitem[{Madhupratap et~al.(1996b)Madhupratap, Kumar, Bhattathiri, Kumar,
+  Raghukumar, Nair and Ramaiah}]{madhupratap1996mechanism}
+\bibinfo{author}{Madhupratap, M.}, \bibinfo{author}{Kumar, S.P.},
+  \bibinfo{author}{Bhattathiri, P.M.A.}, \bibinfo{author}{Kumar, M.D.},
+  \bibinfo{author}{Raghukumar, S.}, \bibinfo{author}{Nair, K.K.C.},
+  \bibinfo{author}{Ramaiah, N.}, \bibinfo{year}{1996}b.
+\newblock \bibinfo{title}{Mechanism of the biological response to winter
+  cooling in the northeastern {Arabian Sea}}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{384},
+  \bibinfo{pages}{549--552}.
+\newblock \DOIprefix\doi{10.1038/384549a0}.
+%Type = Article
+\bibitem[{McCreary et~al.(1996)McCreary, Kohler, Hood and
+  Olson}]{mccreary1996four}
+\bibinfo{author}{McCreary, J.P.}, \bibinfo{author}{Kohler, K.E.},
+  \bibinfo{author}{Hood, R.R.}, \bibinfo{author}{Olson, D.B.},
+  \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{A four-component ecosystem model of biological
+  activity in the {Arabian Sea}}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{37},
+  \bibinfo{pages}{193--240}.
+\newblock \DOIprefix\doi{10.1016/S0079-6611(96)00005-5}.
+%Type = Article
+\bibitem[{McCreary et~al.(1993)McCreary, Kundu and
+  Molinari}]{mccreary1993numerical}
+\bibinfo{author}{McCreary, J.P.}, \bibinfo{author}{Kundu, P.K.},
+  \bibinfo{author}{Molinari, R.L.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{A numerical investigation of dynamics, thermodynamics
+  and mixed-layer processes in the {Indian Ocean}}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{31},
+  \bibinfo{pages}{181--244}.
+\newblock \DOIprefix\doi{10.1016/0079-6611(93)90002-U}.
+%Type = Article
+\bibitem[{McCreary et~al.(2009)McCreary, Murtugudde, Vialard, Vinayachandran,
+  Wiggert, Hood, Shankar and Shetye}]{mccreary2009biophysical}
+\bibinfo{author}{McCreary, J.P.}, \bibinfo{author}{Murtugudde, R.},
+  \bibinfo{author}{Vialard, J.}, \bibinfo{author}{Vinayachandran, P.N.},
+  \bibinfo{author}{Wiggert, J.D.}, \bibinfo{author}{Hood, R.R.},
+  \bibinfo{author}{Shankar, D.}, \bibinfo{author}{Shetye, S.R.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Biophysical processes in the {Indian Ocean}}.
+\newblock \bibinfo{journal}{Indian Ocean Biogeochem. Processes Ecol. Variab.}
+  \bibinfo{volume}{185}, \bibinfo{pages}{9--32}.
+\newblock \DOIprefix\doi{10.1029/2008GM000768}.
+%Type = Article
+\bibitem[{Mooley and Parthasarathy(1984)}]{mooley1984fluctuations}
+\bibinfo{author}{Mooley, D.A.}, \bibinfo{author}{Parthasarathy, B.},
+  \bibinfo{year}{1984}.
+\newblock \bibinfo{title}{Fluctuations in all-{I}ndia summer monsoon rainfall
+  during 1871--1978}.
+\newblock \bibinfo{journal}{Clim. Change} \bibinfo{volume}{6},
+  \bibinfo{pages}{287--301}.
+\newblock \DOIprefix\doi{10.1007/BF00142477}.
+%Type = Article
+\bibitem[{Mukherjee et~al.(2014)Mukherjee, Shankar, Fernando, Amol, Aparna,
+  Fernandes, Michael, Khalap, Satelkar, Agarvadekar, Gaonkar, Tari, Kankonkar
+  and Vernekar}]{mukherjee2014observed}
+\bibinfo{author}{Mukherjee, A.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Fernando, V.}, \bibinfo{author}{Amol, P.},
+  \bibinfo{author}{Aparna, S.G.}, \bibinfo{author}{Fernandes, R.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Khalap, S.T.},
+  \bibinfo{author}{Satelkar, N.P.}, \bibinfo{author}{Agarvadekar, Y.},
+  \bibinfo{author}{Gaonkar, M.G.}, \bibinfo{author}{Tari, A.P.},
+  \bibinfo{author}{Kankonkar, A.}, \bibinfo{author}{Vernekar, S.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Observed seasonal and intraseasonal variability of
+  the {East India Coastal Current} on the continental slope}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{123},
+  \bibinfo{pages}{1197--1232}.
+\newblock \DOIprefix\doi{10.1007/s12040-014-0471-7}.
+%Type = Article
+\bibitem[{Mukhopadhyay et~al.(2017)Mukhopadhyay, Shankar, Aparna and
+  Mukherjee}]{mukhopadhyay2017st}
+\bibinfo{author}{Mukhopadhyay, S.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Aparna, S.G.}, \bibinfo{author}{Mukherjee, A.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Observations of the sub-inertial, near-surface {East
+  India Coastal Current}}.
+\newblock \bibinfo{journal}{Cont. Shelf Res.} \bibinfo{volume}{148},
+  \bibinfo{pages}{159--177}.
+\newblock \DOIprefix\doi{10.1016/j.csr.2017.08.020}.
+%Type = Article
+\bibitem[{Mukhopadhyay et~al.(2020)Mukhopadhyay, Shankar, Aparna, Mukherjee,
+  Fernando, Kankonkar, Khalap, Satelkar, Gaonkar, Tari, Khedkar and
+  Ghatkar}]{mukhopadhyay2020observed}
+\bibinfo{author}{Mukhopadhyay, S.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Aparna, S.G.}, \bibinfo{author}{Mukherjee, A.},
+  \bibinfo{author}{Fernando, V.}, \bibinfo{author}{Kankonkar, A.},
+  \bibinfo{author}{Khalap, S.}, \bibinfo{author}{Satelkar, N.P.},
+  \bibinfo{author}{Gaonkar, M.G.}, \bibinfo{author}{Tari, A.P.},
+  \bibinfo{author}{Khedkar, R.R.}, \bibinfo{author}{Ghatkar, S.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Observed variability of the {East India Coastal
+  Current} on the continental slope during 2009--2018}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{129},
+  \bibinfo{pages}{1--22}.
+\newblock \DOIprefix\doi{10.1007/s12040-020-1346-8}.
+%Type = Article
+\bibitem[{Nair et~al.(1999)Nair, Madhupratap, Gopalakrishnan, Haridas and
+  Gauns}]{nair1999arabian}
+\bibinfo{author}{Nair, K.K.C.}, \bibinfo{author}{Madhupratap, M.},
+  \bibinfo{author}{Gopalakrishnan, T.C.}, \bibinfo{author}{Haridas, P.},
+  \bibinfo{author}{Gauns, M.}, \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{The {Arabian Sea}: physical environment, zooplankton
+  and myctophid abundance}.
+\newblock \bibinfo{journal}{Indian J. Mar. Sci.} \bibinfo{volume}{28},
+  \bibinfo{pages}{138--145}.
+\newblock \URLprefix \url{nopr.niscpr.res.in/handle/123456789/25690}.
+%Type = Article
+\bibitem[{Nair(1970)}]{nair1970primary}
+\bibinfo{author}{Nair, P.V.}, \bibinfo{year}{1970}.
+\newblock \bibinfo{title}{Primary productivity in the {I}ndian seas}.
+\newblock \bibinfo{journal}{CMFRI Bulletin} \bibinfo{volume}{22},
+  \bibinfo{pages}{1--63}.
+\newblock \URLprefix \url{eprints.cmfri.org.in/id/eprint/610}.
+%Type = Incollection
+\bibitem[{Naqvi et~al.(2006)Naqvi, Narvekar and Desa}]{naqvi2006coastal}
+\bibinfo{author}{Naqvi, S.W.A.}, \bibinfo{author}{Narvekar, P.V.},
+  \bibinfo{author}{Desa, E.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Coastal biogeochemical processes in the north
+  {I}ndian {O}cean. {C}oastal segment (14,{S--W})}, in:
+  \bibinfo{editor}{Robinson, A.R.}, \bibinfo{editor}{Brink, K.H.} (Eds.),
+  \bibinfo{booktitle}{The Sea}. \bibinfo{publisher}{John {W}iley and {S}ons,
+  {I}nc}. volume~\bibinfo{volume}{14}. chapter~\bibinfo{chapter}{19}, pp.
+  \bibinfo{pages}{723--781}.
+%Type = Article
+\bibitem[{Naqvi et~al.(1990)Naqvi, Noronha, Somasundar and
+  Gupta}]{naqvi1990seasonal}
+\bibinfo{author}{Naqvi, S.W.A.}, \bibinfo{author}{Noronha, R.J.},
+  \bibinfo{author}{Somasundar, K.}, \bibinfo{author}{Gupta, R.S.},
+  \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{Seasonal changes in the denitrification regime of the
+  {A}rabian {S}ea}.
+\newblock \bibinfo{journal}{Deep-Sea Research} \bibinfo{volume}{37},
+  \bibinfo{pages}{593--611}.
+\newblock \bibinfo{note}{\url{10.1016/0198-0149(90)90092-A}}.
+%Type = Article
+\bibitem[{Nie et~al.(2023)Nie, Li, Wu, Zhang, Tian, Liu, Sun, Ye, Ma and
+  Gao}]{nie2023influence}
+\bibinfo{author}{Nie, L.}, \bibinfo{author}{Li, J.}, \bibinfo{author}{Wu, H.},
+  \bibinfo{author}{Zhang, W.}, \bibinfo{author}{Tian, Y.},
+  \bibinfo{author}{Liu, Y.}, \bibinfo{author}{Sun, P.}, \bibinfo{author}{Ye,
+  Z.}, \bibinfo{author}{Ma, S.}, \bibinfo{author}{Gao, Q.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{The influence of ocean processes on fine-scale
+  changes in the {Yellow Sea} cold water mass boundary area structure based on
+  acoustic observations}.
+\newblock \bibinfo{journal}{Rem. Sens.} \bibinfo{volume}{15},
+  \bibinfo{pages}{4272}.
+\newblock \DOIprefix\doi{10.3390/rs15174272}.
+%Type = Article
+\bibitem[{Ohman and Hirche(2001)}]{ohman2001density}
+\bibinfo{author}{Ohman, M.D.}, \bibinfo{author}{Hirche, H.J.},
+  \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Density-dependent mortality in an oceanic copepod
+  population}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{412},
+  \bibinfo{pages}{638--641}.
+\newblock \DOIprefix\doi{10.1038/35088068}.
+%Type = Article
+\bibitem[{Piontkovski et~al.(1995)Piontkovski, Williams and
+  Melnik}]{piontkovski1995spatial}
+\bibinfo{author}{Piontkovski, S.A.}, \bibinfo{author}{Williams, R.},
+  \bibinfo{author}{Melnik, T.A.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{Spatial heterogeneity, biomass and size structure of
+  plankton of the {Indian Ocean}: some general trends}.
+\newblock \bibinfo{journal}{Mar. Ecol. Prog. Ser.} ,
+  \bibinfo{pages}{219--227}\URLprefix \url{www.jstor.org/stable/44634833}.
+%Type = Article
+\bibitem[{Potiris et~al.(2018)Potiris, Frangoulis, Kalampokis, Ntoumas, Pettas,
+  Petihakis and Zervakis}]{potiris2018acoustic}
+\bibinfo{author}{Potiris, E.}, \bibinfo{author}{Frangoulis, C.},
+  \bibinfo{author}{Kalampokis, A.}, \bibinfo{author}{Ntoumas, M.},
+  \bibinfo{author}{Pettas, M.}, \bibinfo{author}{Petihakis, G.},
+  \bibinfo{author}{Zervakis, V.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Acoustic doppler current profiler observations of
+  migration patternsof zooplankton in the {Cretan Sea}}.
+\newblock \bibinfo{journal}{Ocean Sci.} \bibinfo{volume}{14},
+  \bibinfo{pages}{783--800}.
+\newblock \DOIprefix\doi{10.5194/os-14-783-2018}.
+%Type = Article
+\bibitem[{Prasad and Bahulayan(1996)}]{prasad1996mixed}
+\bibinfo{author}{Prasad, T.}, \bibinfo{author}{Bahulayan, N.},
+  \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{Mixed layer depth and thermocline climatology of the
+  {Arabian Sea} and western equatorial {Indian Ocean}}.
+\newblock \bibinfo{journal}{Indian J. Mar. Sci.} \bibinfo{volume}{25},
+  \bibinfo{pages}{189--194}.
+\newblock \URLprefix \url{nopr.niscpr.res.in/handle/123456789/37119}.
+%Type = Article
+\bibitem[{Qasim(1977)}]{qasim1977biological}
+\bibinfo{author}{Qasim, S.Z.}, \bibinfo{year}{1977}.
+\newblock \bibinfo{title}{Biological productivity of the {I}ndian {O}cean}.
+\newblock \bibinfo{journal}{Indian J. Mar. Sci.} \bibinfo{volume}{6},
+  \bibinfo{pages}{122--137}.
+\newblock \URLprefix \url{nopr.niscpr.res.in/handle/123456789/39365}.
+%Type = Article
+\bibitem[{Qu{\'e}r{\'e} et~al.(2016)Qu{\'e}r{\'e}, Andrew, Canadell, Sitch,
+  Korsbakken, Peters, Manning, Boden, Tans and Houghton}]{le2016global}
+\bibinfo{author}{Qu{\'e}r{\'e}, C.L.}, \bibinfo{author}{Andrew, R.M.},
+  \bibinfo{author}{Canadell, J.G.}, \bibinfo{author}{Sitch, S.},
+  \bibinfo{author}{Korsbakken, J.I.}, \bibinfo{author}{Peters, G.P.},
+  \bibinfo{author}{Manning, A.C.}, \bibinfo{author}{Boden, T.A.},
+  \bibinfo{author}{Tans, P.P.}, \bibinfo{author}{Houghton, R.A.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Global carbon budget 2016}.
+\newblock \bibinfo{journal}{Earth Syst. Sci. Data} \bibinfo{volume}{8},
+  \bibinfo{pages}{605--649}.
+\newblock \DOIprefix\doi{10.5194/essd-8-605-2016}.
+%Type = Article
+\bibitem[{Ramamurthy(1965)}]{ramamurthy1965studies}
+\bibinfo{author}{Ramamurthy, S.}, \bibinfo{year}{1965}.
+\newblock \bibinfo{title}{Studies on the plankton of the {N}orth {K}anara coast
+  in relation to the pelagic fishery}.
+\newblock \bibinfo{journal}{J. Mar. Biol. Assoc. India} \bibinfo{volume}{7},
+  \bibinfo{pages}{127--149}.
+\newblock \URLprefix \url{eprints.cmfri.org.in/id/eprint/894}.
+%Type = Article
+\bibitem[{Rehim and Imran(2012)}]{rehim2012dynamical}
+\bibinfo{author}{Rehim, M.}, \bibinfo{author}{Imran, M.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Dynamical analysis of a delay model of
+  phytoplankton-zooplankton interaction}.
+\newblock \bibinfo{journal}{Appl. Math. Model.} \bibinfo{volume}{36},
+  \bibinfo{pages}{638--647}.
+\newblock \DOIprefix\doi{10.1016/j.apm.2011.07.018}.
+%Type = Article
+\bibitem[{Rippeth and Simpson(1998)}]{rippeth1998diur}
+\bibinfo{author}{Rippeth, T.P.}, \bibinfo{author}{Simpson, J.H.},
+  \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{Diurnal signals in vertical motions on the
+  {H}ebridean shelf}.
+\newblock \bibinfo{journal}{Limnol. Oceanogr.} \bibinfo{volume}{43},
+  \bibinfo{pages}{1690--1696}.
+\newblock \DOIprefix\doi{10.4319/lo.1998.43.7.1690}.
+%Type = Article
+\bibitem[{Rochford(1964)}]{rochford1964salinity}
+\bibinfo{author}{Rochford, D.}, \bibinfo{year}{1964}.
+\newblock \bibinfo{title}{{S}alinity maxima in the upper 1000 metres of the
+  north {I}ndian {O}cean}.
+\newblock \bibinfo{journal}{Marine and Freshwater Research}
+  \bibinfo{volume}{15}, \bibinfo{pages}{1--24}.
+\newblock \bibinfo{note}{\url{10.1071/MF9640001}}.
+%Type = Article
+\bibitem[{Ryther et~al.(1966)Ryther, Hall, Pease, Bakun and
+  Jones}]{ryther1966primary}
+\bibinfo{author}{Ryther, J.H.}, \bibinfo{author}{Hall, J.R.},
+  \bibinfo{author}{Pease, A.K.}, \bibinfo{author}{Bakun, A.},
+  \bibinfo{author}{Jones, M.M.}, \bibinfo{year}{1966}.
+\newblock \bibinfo{title}{Primary organic production in relation to the
+  chemistry and hydrography of the western {I}ndian {O}cean}.
+\newblock \bibinfo{journal}{Limnol. and Oceanogr.} \bibinfo{volume}{11},
+  \bibinfo{pages}{371--380}.
+\newblock \DOIprefix\doi{10.4319/lo.1966.11.3.0371}.
+%Type = Article
+\bibitem[{Schmidt et~al.(2020)Schmidt, Czeschel and
+  Visbeck}]{schmidt2020seasonal}
+\bibinfo{author}{Schmidt, H.}, \bibinfo{author}{Czeschel, R.},
+  \bibinfo{author}{Visbeck, M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Seasonal variability of the {Arabian Sea}
+  intermediate circulation and its impact on seasonal changes of the upper
+  oxygen minimum zone}.
+\newblock \bibinfo{journal}{Ocean Sci.} \bibinfo{volume}{16},
+  \bibinfo{pages}{1459--1474}.
+\newblock \DOIprefix\doi{10.5194/os-16-1459-2020}.
+%Type = Article
+\bibitem[{Shankar et~al.(2019)Shankar, Remya, Anil and
+  Vijith}]{shankar2019role}
+\bibinfo{author}{Shankar, D.}, \bibinfo{author}{Remya, R.},
+  \bibinfo{author}{Anil, A.C.}, \bibinfo{author}{Vijith, V.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Role of physical processes in determining the nature
+  of fisheries in the eastern {Arabian Sea}}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{172},
+  \bibinfo{pages}{124--158}.
+\newblock \DOIprefix\doi{10.1016/j.pocean.2018.11.006}.
+%Type = Article
+\bibitem[{Shankar et~al.(2016)Shankar, Remya, Vinayachandran, Chatterjee and
+  Behera}]{shankar2016inhibition}
+\bibinfo{author}{Shankar, D.}, \bibinfo{author}{Remya, R.},
+  \bibinfo{author}{Vinayachandran, P.N.}, \bibinfo{author}{Chatterjee, A.},
+  \bibinfo{author}{Behera, A.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Inhibition of mixed-layer deepening during winter in
+  the northeastern {Arabian Sea} by the {West India Coastal Current}}.
+\newblock \bibinfo{journal}{Clim. Dyn.} \bibinfo{volume}{47},
+  \bibinfo{pages}{1049--1072}.
+\newblock \DOIprefix\doi{10.1007/s00382-015-2888-3}.
+%Type = Article
+\bibitem[{Shankar et~al.(2005)Shankar, Shenoi, Nayak, Vinayachandran,
+  Nampoothiri, Almeida, Michael, Kumar, Sundar and
+  Sreejith}]{shankar2002hydrography}
+\bibinfo{author}{Shankar, D.}, \bibinfo{author}{Shenoi, S.S.C.},
+  \bibinfo{author}{Nayak, R.K.}, \bibinfo{author}{Vinayachandran, P.N.},
+  \bibinfo{author}{Nampoothiri, G.}, \bibinfo{author}{Almeida, A.M.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Kumar, M.R.R.},
+  \bibinfo{author}{Sundar, D.}, \bibinfo{author}{Sreejith, O.P.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Hydrography of the eastern {Arabian Sea} during
+  summer monsoon 2002}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{114},
+  \bibinfo{pages}{459--474}.
+\newblock \DOIprefix\doi{10.1007/BF02702023}.
+%Type = Article
+\bibitem[{Shankar and Shetye(1997)}]{shankar1997dynamics}
+\bibinfo{author}{Shankar, D.}, \bibinfo{author}{Shetye, S.R.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{On the dynamics of the {L}akshadweep high and low in
+  the southeastern {Arabian Sea}}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{102},
+  \bibinfo{pages}{12551--12562}.
+\newblock \DOIprefix\doi{10.1029/97JC00465}.
+%Type = Article
+\bibitem[{Shankar et~al.(2002)Shankar, Vinayachandran and
+  Unnikrishnan}]{shankar2002monsoon}
+\bibinfo{author}{Shankar, D.}, \bibinfo{author}{Vinayachandran, P.},
+  \bibinfo{author}{Unnikrishnan, A.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{The monsoon currents in the north {Indian Ocean}}.
+\newblock \bibinfo{journal}{Prog. in ocean.} \bibinfo{volume}{52},
+  \bibinfo{pages}{63--120}.
+\newblock \bibinfo{note}{\url{10.1016/S0079-6611(02)00024-1}}.
+%Type = Article
+\bibitem[{Shenoi et~al.(2005)Shenoi, Shankar, Michael, Kurian, Varma, Kumar,
+  Almeida, Unnikrishnan, Fernandes, Barreto, Gnanaseelan, Mathew, Praju and
+  Mahale}]{shenoi2005hydrography}
+\bibinfo{author}{Shenoi, S.S.C.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Kurian, J.},
+  \bibinfo{author}{Varma, K.K.}, \bibinfo{author}{Kumar, M.R.R.},
+  \bibinfo{author}{Almeida, A.M.}, \bibinfo{author}{Unnikrishnan, A.S.},
+  \bibinfo{author}{Fernandes, W.}, \bibinfo{author}{Barreto, N.},
+  \bibinfo{author}{Gnanaseelan, C.}, \bibinfo{author}{Mathew, R.},
+  \bibinfo{author}{Praju, K.V.}, \bibinfo{author}{Mahale, V.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Hydrography and water masses in the southeastern
+  {Arabian Sea} during {M}arch--{J}une 2003}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{114},
+  \bibinfo{pages}{475--491}.
+\newblock \DOIprefix\doi{10.1007/BF02702024}.
+%Type = Article
+\bibitem[{Shenoi et~al.(2004)Shenoi, Shankar and Shetye}]{shenoi2004remote}
+\bibinfo{author}{Shenoi, S.S.C.}, \bibinfo{author}{Shankar, D.},
+  \bibinfo{author}{Shetye, S.R.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Remote forcing annihilates barrier layer in
+  southeastern {A}rabian {S}ea}.
+\newblock \bibinfo{journal}{Geophys. Res. Lett.}
+  \bibinfo{note}{\url{10.1029/2003GL019270}}.
+%Type = Article
+\bibitem[{Shetye et~al.(1992)Shetye, Gouveia and Shenoi}]{shetye1992does}
+\bibinfo{author}{Shetye, S.R.}, \bibinfo{author}{Gouveia, A.D.},
+  \bibinfo{author}{Shenoi, S.S.C.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{Does winter cooling lead to the subsurface salinity
+  minimum off {S}aurashtra, {I}ndia?}
+\newblock \bibinfo{journal}{Oceanogr. Indian Ocean} ,
+  \bibinfo{pages}{617--625}\URLprefix
+  \url{drs.nio.org/drs/bitstream/2264/3139/2/Oceanogr_Indian_Ocean_1992_617.pdf}.
+%Type = Article
+\bibitem[{Shetye et~al.(1991)Shetye, Gouveia, Shenoi, Michael, Sundar, Almeida
+  and Santanam}]{shetye19911517}
+\bibinfo{author}{Shetye, S.R.}, \bibinfo{author}{Gouveia, A.D.},
+  \bibinfo{author}{Shenoi, S.S.C.}, \bibinfo{author}{Michael, G.S.},
+  \bibinfo{author}{Sundar, D.}, \bibinfo{author}{Almeida, A.M.},
+  \bibinfo{author}{Santanam, K.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{The coastal current off western {I}ndia during the
+  northeast monsoon}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part A. Oceanogr. Res. Pap.}
+  \bibinfo{volume}{38}, \bibinfo{pages}{1517--1529}.
+\newblock \DOIprefix\doi{10.1016/0198-0149(91)90087-V}.
+%Type = Article
+\bibitem[{Shetye et~al.(1990)Shetye, Gouveia, Shenoi, Sundar, Michael, Almeida
+  and Santanam}]{shetye1990hydrography}
+\bibinfo{author}{Shetye, S.R.}, \bibinfo{author}{Gouveia, A.D.},
+  \bibinfo{author}{Shenoi, S.S.C.}, \bibinfo{author}{Sundar, D.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Almeida, A.},
+  \bibinfo{author}{Santanam, K.}, \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{Hydrography and circulation off the west coast of
+  {I}ndia during the southwest monsoon 1987}.
+\newblock \bibinfo{journal}{J. Mar. Res.} \bibinfo{volume}{48},
+  \bibinfo{pages}{359--378}.
+%Type = Article
+\bibitem[{Shi and Wang(2022)}]{shi2022phytoplankton}
+\bibinfo{author}{Shi, W.}, \bibinfo{author}{Wang, M.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Phytoplankton biomass dynamics in the {Arabian Sea}
+  from {VIIRS} observations}.
+\newblock \bibinfo{journal}{J. Mar. Syst.} \bibinfo{volume}{227},
+  \bibinfo{pages}{103670}.
+\newblock \DOIprefix\doi{10.1016/j.jmarsys.2021.103670}.
+%Type = Article
+\bibitem[{Smeti et~al.(2015)Smeti, Pagano, Menkes, Dhaussy, Hunt, Allain,
+  Rodier, De~Boissieu, Kestenare and Sammari}]{smeti2015spatial}
+\bibinfo{author}{Smeti, H.}, \bibinfo{author}{Pagano, M.},
+  \bibinfo{author}{Menkes, C.}, \bibinfo{author}{Dhaussy, A.L.},
+  \bibinfo{author}{Hunt, B.P.V.}, \bibinfo{author}{Allain, V.},
+  \bibinfo{author}{Rodier, M.}, \bibinfo{author}{De~Boissieu, F.},
+  \bibinfo{author}{Kestenare, E.}, \bibinfo{author}{Sammari, C.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Spatial and temporal variability of zooplankton off
+  {New Caledonia (Southwestern Pacific)} from acoustics and net measurements}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{120},
+  \bibinfo{pages}{2676--2700}.
+\newblock \DOIprefix\doi{10.1002/2014JC010441}.
+%Type = Article
+\bibitem[{Smith and Madhupratap(2005)}]{smith2005mesozooplankton}
+\bibinfo{author}{Smith, S.L.}, \bibinfo{author}{Madhupratap, M.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Mesozooplankton of the {Arabian Sea}: patterns
+  influenced by seasons, upwelling, and oxygen concentrations}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{65},
+  \bibinfo{pages}{214--239}.
+\newblock \DOIprefix\doi{10.1016/j.pocean.2005.03.007}.
+%Type = Article
+\bibitem[{Sreenivas et~al.(2008)Sreenivas, Patnaik and
+  Prasad}]{sreenivas2008monthly}
+\bibinfo{author}{Sreenivas, P.}, \bibinfo{author}{Patnaik, K.V.K.R.K.},
+  \bibinfo{author}{Prasad, K.V.S.R.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{Monthly variability of mixed layer over {Arabian Sea}
+  using {ARGO} data}.
+\newblock \bibinfo{journal}{Mar. Geod.} \bibinfo{volume}{31},
+  \bibinfo{pages}{17--38}.
+\newblock \DOIprefix\doi{10.1080/01490410701812311}.
+%Type = Inproceedings
+\bibitem[{Subrahmanyan(1959)}]{subrahmanyan1959studiespart2}
+\bibinfo{author}{Subrahmanyan, R.}, \bibinfo{year}{1959}.
+\newblock \bibinfo{title}{Studies on the phytoplankton of the west coast of
+  {India}: {Part II}. {P}hysical and chemical factors influencing the
+  production of phytoplankton, with remarks on the cycle of nutrients and on
+  the relationship of the phosphate-content to fish landings}, in:
+  \bibinfo{booktitle}{Proc. Ind. Acad. Sci.}, \bibinfo{organization}{Springer}.
+  pp. \bibinfo{pages}{189--252}.
+\newblock \DOIprefix\doi{10.1007/BF03051925}.
+%Type = Article
+\bibitem[{Subrahmanyan and Sarma(1960)}]{subrahmanyan1960studies}
+\bibinfo{author}{Subrahmanyan, R.}, \bibinfo{author}{Sarma, A.H.},
+  \bibinfo{year}{1960}.
+\newblock \bibinfo{title}{Studies on the phytoplankton of the west coast of
+  {I}ndia. {Part III}. {S}easonal variation of the phytoplankters and
+  environmental factors}.
+\newblock \bibinfo{journal}{Indian J. Fish.} \bibinfo{volume}{7},
+  \bibinfo{pages}{307--336}.
+\newblock \URLprefix \url{eprints.cmfri.org.in/1899/}.
+%Type = Article
+\bibitem[{Ursella et~al.(2018)Ursella, Cardin, Batisti{\'c}, Gari{\'c} and
+  Ga{\v{c}}i{\'c}}]{ursella2018evidence}
+\bibinfo{author}{Ursella, L.}, \bibinfo{author}{Cardin, V.},
+  \bibinfo{author}{Batisti{\'c}, M.}, \bibinfo{author}{Gari{\'c}, R.},
+  \bibinfo{author}{Ga{\v{c}}i{\'c}, M.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Evidence of zooplankton vertical migration from
+  continuous {Southern Adriatic} buoy current-meter records}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{167},
+  \bibinfo{pages}{78--96}.
+\newblock \DOIprefix\doi{10.1016/j.pocean.2018.07.004}.
+%Type = Article
+\bibitem[{Ursella et~al.(2021)Ursella, Pensieri, Pall{\`a}s-Sanz, Herzka,
+  Bozzano, Tenreiro, Cardin, Candela and Sheinbaum}]{ursella2021diel}
+\bibinfo{author}{Ursella, L.}, \bibinfo{author}{Pensieri, S.},
+  \bibinfo{author}{Pall{\`a}s-Sanz, E.}, \bibinfo{author}{Herzka, S.Z.},
+  \bibinfo{author}{Bozzano, R.}, \bibinfo{author}{Tenreiro, M.},
+  \bibinfo{author}{Cardin, V.}, \bibinfo{author}{Candela, J.},
+  \bibinfo{author}{Sheinbaum, J.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Diel, lunar and seasonal vertical migration in the
+  deep western {Gulf of Mexico} evidenced from a long-term data series of
+  acoustic backscatter}.
+\newblock \bibinfo{journal}{Prog. Oceanogr.} \bibinfo{volume}{195},
+  \bibinfo{pages}{102562}.
+\newblock \DOIprefix\doi{10.1016/j.pocean.2021.102562}.
+%Type = Article
+\bibitem[{Vijith et~al.(2022)Vijith, Shetye, Gouveia, Shenoi, Michael and
+  Sundar}]{vijith2022circulation}
+\bibinfo{author}{Vijith, V.}, \bibinfo{author}{Shetye, S.R.},
+  \bibinfo{author}{Gouveia, A.D.}, \bibinfo{author}{Shenoi, S.S.C.},
+  \bibinfo{author}{Michael, G.S.}, \bibinfo{author}{Sundar, D.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Circulation in the region of the {West India Coastal
+  Current} in {March} 1994 hydrographic and altimeter data}.
+\newblock \bibinfo{journal}{J. Earth Syst. Sci.} \bibinfo{volume}{131},
+  \bibinfo{pages}{16}.
+\newblock \DOIprefix\doi{10.1007/s12040-021-01761-5}.
+%Type = Article
+\bibitem[{Vijith et~al.(2016)Vijith, Vinayachandran, Thushara, Amol, Shankar
+  and Anil}]{vijith2016consequences}
+\bibinfo{author}{Vijith, V.}, \bibinfo{author}{Vinayachandran, P.N.},
+  \bibinfo{author}{Thushara, V.}, \bibinfo{author}{Amol, P.},
+  \bibinfo{author}{Shankar, D.}, \bibinfo{author}{Anil, A.C.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Consequences of inhibition of mixed-layer deepening
+  by the {West India Coastal Current} for winter phytoplankton bloom in the
+  northeastern {Arabian Sea}}.
+\newblock \bibinfo{journal}{J. Geophys. Res. Oceans} \bibinfo{volume}{121},
+  \bibinfo{pages}{6583--6603}.
+\newblock \DOIprefix\doi{10.1002/2016JC012004}.
+%Type = Article
+\bibitem[{Wiebe et~al.(1990)Wiebe, Greene, Stanton and
+  Burczynski}]{wiebe1990sound}
+\bibinfo{author}{Wiebe, P.H.}, \bibinfo{author}{Greene, C.H.},
+  \bibinfo{author}{Stanton, T.K.}, \bibinfo{author}{Burczynski, J.},
+  \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{Sound scattering by live zooplankton and micronekton:
+  empirical studies with a dual-beam acoustical system}.
+\newblock \bibinfo{journal}{The Journal of the Acoustical Society of America}
+  \bibinfo{volume}{88}, \bibinfo{pages}{2346--2360}.
+\newblock \DOIprefix\doi{10.1121/1.400077}.
+%Type = Article
+\bibitem[{Winder and Schindler(2004)}]{winder2004climatic}
+\bibinfo{author}{Winder, M.}, \bibinfo{author}{Schindler, D.E.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Climatic effects on the phenology of lake processes}.
+\newblock \bibinfo{journal}{Global Change Biol.} \bibinfo{volume}{10},
+  \bibinfo{pages}{1844--1856}.
+\newblock \DOIprefix\doi{10.1111/j.1365-2486.2004.00849.x}.
+%Type = Article
+\bibitem[{Wishner et~al.(1998)Wishner, Gowing and
+  Gelfman}]{wishner1998mesozooplankton}
+\bibinfo{author}{Wishner, K.F.}, \bibinfo{author}{Gowing, M.M.},
+  \bibinfo{author}{Gelfman, C.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{Mesozooplankton biomass in the upper 1000 m in the
+  {Arabian Sea}: overall seasonal and geographic patterns, and relationship to
+  oxygen gradients}.
+\newblock \bibinfo{journal}{Deep-Sea Res. Part II Top. Stud. Oceanogr.}
+  \bibinfo{volume}{45}, \bibinfo{pages}{2405--2432}.
+\newblock \DOIprefix\doi{10.1016/S0967-0645(98)00078-2}.
+%Type = Book
+\bibitem[{Wyrtki et~al.(1971)Wyrtki, Bennett, Rochford, Expedition, (U.S.) and
+  of~Hawaii~(Honolulu)}]{wyrtki1971oceanographic}
+\bibinfo{author}{Wyrtki, K.}, \bibinfo{author}{Bennett, E.B.},
+  \bibinfo{author}{Rochford, D.J.}, \bibinfo{author}{Expedition, I.I.O.},
+  \bibinfo{author}{(U.S.), N.S.F.}, \bibinfo{author}{of~Hawaii~(Honolulu), U.},
+  \bibinfo{year}{1971}.
+\newblock \bibinfo{title}{Oceanographic atlas of the {International Indian
+  Ocean Expedition}}.
+\newblock \bibinfo{publisher}{National Science Foundation}.
+\newblock \bibinfo{note}{\url{//cir.nii.ac.jp/crid/1130000796355741312}}.
+
+\end{thebibliography}
